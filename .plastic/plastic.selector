@@ -1,0 +1,4 @@
+repository "tempo-spaco@dongri727@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TopPage.unity
+    guid: 6370de7db63084baba690da56d1145ac
+  - enabled: 1
+    path: Assets/Scenes/WithMap.unity
+    guid: 1d4ce01d221744dd3ba344908f1cbe1c
+  - enabled: 1
+    path: Assets/Scenes/WithGlobe.unity
+    guid: dbce48206f0eb45279c57a9057ee2c15
+  m_configObjects: {}
