@@ -206,7 +206,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -1814,7 +1814,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 46727,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2338,7 +2338,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 86989,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.AI.Navigation.UnityAdditionalFile.txt"
@@ -2789,7 +2789,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 120650,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.ProBuilder.Csg.UnityAdditionalFile.txt"
@@ -3226,7 +3226,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 154625,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.ProBuilder.KdTree.UnityAdditionalFile.txt"
@@ -3666,7 +3666,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 188997,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.ProBuilder.Poly2Tri.UnityAdditionalFile.txt"
@@ -4125,7 +4125,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 225525,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.ProBuilder.Stl.UnityAdditionalFile.txt"
@@ -4557,7 +4557,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 259127,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -5044,7 +5044,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 297522,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -5545,7 +5545,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 336989,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -6401,7 +6401,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 423847,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.ProBuilder.UnityAdditionalFile.txt"
@@ -6985,7 +6985,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 466507,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -7837,7 +7837,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 548896,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -8322,7 +8322,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 585742,
       "PayloadLength": 32,
-      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo spa",
+      "PayloadDebugContentSnippet": "/Users/laporte/unity/tempo-spa",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -9297,7 +9297,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Csg.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.KdTree.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Stl.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/laporte/unity/tempo spaco/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Users/laporte/Developer/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/laporte/unity/tempo spaco/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/laporte/unity/tempo spaco/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/laporte/unity/tempo spaco/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Csg.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.KdTree.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Stl.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/laporte/unity/tempo-spaco/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Users/laporte/Developer/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/laporte/unity/tempo-spaco/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/laporte/unity/tempo-spaco/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/laporte/unity/tempo-spaco/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Users/laporte/Developer/2022.3.14f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -9461,7 +9461,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/laporte/unity/tempo spaco/getconf"
+      "File": "/Users/laporte/unity/tempo-spaco/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -9550,6 +9550,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/2000b0aP.dag.json",
-  "PayloadsFile": "/Users/laporte/unity/tempo spaco/Library/Bee/2000b0aP.dag.payloads",
+  "PayloadsFile": "/Users/laporte/unity/tempo-spaco/Library/Bee/2000b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }

@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "tempo-spaco",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+

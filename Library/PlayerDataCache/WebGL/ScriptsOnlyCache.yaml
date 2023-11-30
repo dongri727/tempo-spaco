@@ -1328,4 +1328,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/TopPage.unity
   - Assets/Scenes/WithMap.unity
   - Assets/Scenes/WithGlobe.unity
-  playerPath: /Users/laporte/unity/tempo spaco/tempo spaco
+  playerPath: /Users/laporte/unity/tempo-spaco/tempo-spaco
