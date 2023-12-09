@@ -77,6 +77,7 @@
     <Compile Include="Assets/Planet Earth Free/SpinFree.cs" />
     <Compile Include="Assets/Scripts/CSVImporterWithRotation.cs" />
     <Compile Include="Assets/Scripts/BackButton.cs" />
+    <Compile Include="Assets/Scripts/GSelectedManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
@@ -921,8 +922,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj" />
-    <ProjectReference Include="Unity.AI.Navigation.csproj" />
+    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj" />
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj" />
+    <ProjectReference Include="Unity.AI.Navigation.csproj" />
     <ProjectReference Include="Unity.ProBuilder.csproj" />
     <ProjectReference Include="Unity.Timeline.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj" />
@@ -940,9 +942,10 @@
     <ProjectReference Include="Unity.ProBuilder.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj" />
     <ProjectReference Include="Unity.Performance.Profile-Analyzer.Editor.csproj" />
-    <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.csproj" />
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj" />
     <ProjectReference Include="Unity.AI.Navigation.Updater.csproj" />
+    <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.csproj" />
+    <ProjectReference Include="Unity.Postprocessing.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj" />

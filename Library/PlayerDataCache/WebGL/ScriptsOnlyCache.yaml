@@ -89,11 +89,23 @@ ScriptsOnlyBuild:
     fullTypeName: GoToGlobe
     methodName: SwitchScene
   - assembly: Assembly-CSharp
+    fullTypeName: HintController
+    methodName: HidePanel
+  - assembly: Assembly-CSharp
     fullTypeName: BackButton
     methodName: SwitchScene
   - assembly: Assembly-CSharp
     fullTypeName: Emergency
     methodName: StopRotation
+  - assembly: Assembly-CSharp
+    fullTypeName: HintController
+    methodName: ShowPanel
+  - assembly: Assembly-CSharp
+    fullTypeName: HintController
+    methodName: HidePanel
+  - assembly: Assembly-CSharp
+    fullTypeName: HintController
+    methodName: ShowPanel
   - assembly: Assembly-CSharp
     fullTypeName: BackButton
     methodName: SwitchScene
@@ -127,17 +139,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1748}
+      Script: {instanceID: 1704}
     - Class: 114
-      Script: {instanceID: 2144}
+      Script: {instanceID: 1750}
     - Class: 114
-      Script: {instanceID: 2394}
+      Script: {instanceID: 2146}
     - Class: 114
-      Script: {instanceID: 2838}
+      Script: {instanceID: 2396}
     - Class: 114
-      Script: {instanceID: 3062}
+      Script: {instanceID: 2840}
     - Class: 114
-      Script: {instanceID: 3380}
+      Script: {instanceID: 3064}
     - Class: 114
       Script: {instanceID: 4404}
     - Class: 114
@@ -206,15 +218,15 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1748}
+      Script: {instanceID: 1704}
     - Class: 114
-      Script: {instanceID: 1900}
+      Script: {instanceID: 1750}
     - Class: 114
-      Script: {instanceID: 2838}
+      Script: {instanceID: 1902}
     - Class: 114
-      Script: {instanceID: 3062}
+      Script: {instanceID: 2840}
     - Class: 114
-      Script: {instanceID: 3380}
+      Script: {instanceID: 3064}
     - Class: 114
       Script: {instanceID: 3848}
     - Class: 114
@@ -237,6 +249,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 6686}
     - Class: 114
       Script: {instanceID: 8022}
+    - Class: 114
+      Script: {instanceID: 8220}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -291,13 +305,13 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1748}
+      Script: {instanceID: 1704}
     - Class: 114
-      Script: {instanceID: 2838}
+      Script: {instanceID: 1750}
     - Class: 114
-      Script: {instanceID: 3062}
+      Script: {instanceID: 2840}
     - Class: 114
-      Script: {instanceID: 3380}
+      Script: {instanceID: 3064}
     - Class: 114
       Script: {instanceID: 3848}
     - Class: 114
@@ -322,6 +336,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 6686}
     - Class: 114
       Script: {instanceID: 8022}
+    - Class: 114
+      Script: {instanceID: 8220}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -345,6 +361,12 @@ ScriptsOnlyBuild:
     - Class: 850595691
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 915204dac8acad99f076d6e72ada0a0f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Button
   - hash:
       serializedVersion: 2
       Hash: 55060a7bf226ac385ce19ebd450f199f
@@ -579,12 +601,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: ToggleGroup
-  - hash:
-      serializedVersion: 2
-      Hash: 915204dac8acad99f076d6e72ada0a0f
-    assemblyName: UnityEngine.UI
-    namespaceName: UnityEngine.UI
-    className: Button
   - hash:
       serializedVersion: 2
       Hash: d90629714fa6b0145fcaffc87f5c6559

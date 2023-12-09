@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/WithMap.unity
+- path: Assets/Scenes/WithGlobe.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
