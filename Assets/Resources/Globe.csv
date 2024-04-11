@@ -1,80 +1,80 @@
 id,annee,affair,location,precise,x_coordinate,y_coordinate,z_coordinate
-1,CE 2023,space telescope Euclid is launched,United States,Florida,1177.854,3940.6698,-7154.2381
-2,BCE 2560,Great Pyramid,Egypt,Giza,4764.932,3952.8896,1889.5048
-3,BCE 776,the First Olympic,Greece,Olympia,4919.2431,4080.9127,1950.7015
-4,13.8B years ago,Big Bang,Universe,(whole),0,1.6398,0
-5,13B years ago,Milky Way is born,Milky Way,(whole),0,27.5755,0
-6,4.56B years ago,Sun is born,Solar System,Sun,0,482.5539,0
-7,CE 79,Mount Vesuvius erupt,Italy,Mount Vesuvius,5010.1439,4468.2083,1289.4937
-8,CE 1969,Apollo11 Moon Landing,Solar System,Moon,0,8022.7737,0
-9,CE 1789,Storming of the Bastille,France,Paris,5028.0719,5759.242,208.0284
-10,CE 1600,Battle of Sekigahara,Japan,Sekigahara,-4399.2874,4308.1082,4180.3751
-11,CE 1851,Taiping Rebellion,China,Nanjing,-3159.4451,4110.4656,5752.0259
-12,CE 794,Relocation to Heiankyo,Japan,Kyoto,-4121.8922,4032.2152,4013.6594
-13,CE 1869,Suez Canal opened,Egypt,Port Said,5619.9613,4036.199,3552.1056
-14,CE 1919,Treaty of Versailles,France,Versailles,5188.1847,5931.4068,192.3423
-15,CE 1997,Kyoto Protocol for COP3,Japan,Kyoto,-4768.592,4669.3927,4639.9581
-16,CE 1989,Fall of the Berlin Wall,Germany,Berlin,4792.8393,6423.0856,1145.4502
-17,CE 2020,the lockdown for covid19,France,(whole),5411.7373,6202.1664,218.9083
-18,CE 1981,Francois Mitterrand as the 21st President,France,(whole),5299.3322,6073.3437,214.3615
-19,CE 2003,Human Genome Project was declared complete,United States,(whole),1423.2111,5118.3486,-6182.6535
-20,4.54B years ago,Earth is born,Solar System,Earth,0,484.4629,0
-21,4.51B years ago,Moon is born,Solar System,Moon,0,487.3422,0
-22,CE 622,Hijrah,Saudi Arabia,Medina,4889.4207,2887.43,4044.8806
-23,CE 1969,Apollo 11 is launched,United States,Florida,1145.0978,3831.0796,-6955.2785
-24,CE 1991,Mount Unzen pyroclastic flow,Japan,Simabara,-4406.5226,4384.228,5196.1973
-25,about BCE 3000,Stonehenge,United Kingdom,Sollsbury Plain,4038.4674,5007.4149,-105.2855
-26,CE 1868,Battle of Hakodate,Japan,Hakodate,-4489.6197,5182.5749,3667.2637
-27,CE 1274,Battle of Bun-ei,Japan,Hakata,-3893.8247,3999.8437,4586.0832
-28,CE 1773,Boston Tea Party,United States,Boston,1830.1262,5138.2879,-5330.9053
-29,CE 2001,September 11 attacks - New York,United States,New York,1708.5278,5281.2676,-5960.1113
-30,CE 1793,Marie Antoinette is guillotined,France,Paris,5071.0353,5729.5251,205.5453
-31,CE 2000,26th G8 summit,Japan,Okinawa,-4447.3294,3609.4025,5783.3016
-32,4.1B years ago,Late Heavy Bombardment,Solar System,Earth,0,528.7348,0
-33,3.8B years ago,Prokaryote,Solar System,Earth,0,561.7351,0
-34,3.2B years ago,Cyanobacteria,Solar System,Earth,0,636.3687,0
-35,2.1B years ago,Eukaryote,Solar System,Earth,0,819.2992,0
-36,1.0B years ago,Multicellular,Solar System,Earth,0,1141.518,0
-37,126M years ago,Iguanodon,Belgium,Bernissart,1296.1499,1574.6162,82.6825
-38,CE 1707,Ho-ei eruption,Japan,Mount Fuji,-4626.2589,4367.373,4059.835
-39,BCE 1900,Erlitou Site,China,Erlitou,-2073.9623,3722.0562,4960.6413
-40,CE 1964,Games of the 18th Olympiad,Japan,Tokyo,-4961.7535,4670.0835,4205.6816
-41,CE 2003,Hayabusa is Launched,Japan,Kagoshima,-4579.0966,4229.1135,5253.5371
-42,CE 2005,Hayabusa Landed on Itokawa,Solar System,Asteroid,0,8163.2835,0
-43,CE 2010,Hayabusa Landed on Earth,Australia,Woomera,-4923.8168,-4092.3238,5098.7615
-44,CE 2013,Quelle2013 niconico-live from the hydrothermal vents,North Atlantic Ocean,Caribbean Sea ,1109.6839,2588.1335,-7700.6731
-45,CE 1941,Siege of Leningrad,Russia,Saint Petersburg,3433.5379,6871.2769,2007.0899
-46,CE 1006,SN1006 was Observed,Japan,Kyoto,-4166.8909,4076.2348,4057.4765
-47,CE 1054,SN1054 was Observed,Japan,Kyoto,-4178.3586,4087.4531,4068.6431
+1,4.56B years ago,Sun is born,Solar System,Sun,0,482.5539,0
+2,13.8B years ago,Big Bang,Universe,(whole),0,1.6398,0
+3,13B years ago,Milky Way is born,Milky Way,(whole),0,27.5755,0
+4,CE 2023,space telescope Euclid is launched,United States,Florida,1177.854,3940.6698,-7154.2381
+5,126M years ago,Iguanodon,Belgium,Bernissart,1296.1499,1574.6162,82.6825
+6,CE 1941,Siege of Leningrad,Russia,Saint Petersburg,3433.5379,6871.2769,2007.0899
+7,CE 1969,Apollo11 Moon Landing,Solar System,Moon,0,8022.7737,0
+8,CE 1789,Storming of the Bastille,France,Paris,5028.0719,5759.242,208.0284
+9,4.54B years ago,Earth is born,Solar System,Earth,0,484.4629,0
+10,4.51B years ago,Moon is born,Solar System,Moon,0,487.3422,0
+11,BCE 2560,Great Pyramid,Egypt,Giza,4764.932,3952.8896,1889.5048
+12,BCE 776,the First Olympic,Greece,Olympia,4919.2431,4080.9127,1950.7015
+13,BCE 1900,Erlitou Site,China,Erlitou,-2073.9623,3722.0562,4960.6413
+14,CE 79,Mount Vesuvius erupt,Italy,Mount Vesuvius,5010.1439,4468.2083,1289.4937
+15,about BCE 3000,Stonehenge,United Kingdom,Salisbury Plain,4038.4674,5007.4149,-105.2855
+16,4.1B years ago,Late Heavy Bombardment,Solar System,Earth,0,528.7348,0
+17,1.0B years ago,Multicellular,Solar System,Earth,0,1141.518,0
+18,2.1B years ago,Eukaryote,Solar System,Earth,0,819.2992,0
+19,3.8B years ago,Prokaryote,Solar System,Earth,0,561.7351,0
+20,3.2B years ago,Cyanobacteria,Solar System,Earth,0,636.3687,0
+21,CE 2001,September 11 attacks - New York,United States,New York,1708.5278,5281.2676,-5960.1113
+22,CE 1793,Marie Antoinette is guillotined,France,Paris,5071.0353,5729.5251,205.5453
+23,CE 1991,Mount Unzen pyroclastic flow,Japan,Simabara,-4406.5226,4384.228,5196.1973
+24,CE 1773,Boston Tea Party,United States,Boston,1830.1262,5138.2879,-5330.9053
+25,CE 1274,Battle of Bun-ei,Japan,Hakata,-3893.8247,3999.8437,4586.0832
+26,CE 622,Hijrah,Saudi Arabia,Medina,4889.4207,2887.43,4044.8806
+27,CE 2000,26th G8 summit,Japan,Okinawa,-4447.3294,3609.4025,5783.3016
+28,CE 1969,Apollo 11 is launched,United States,Florida,1145.0978,3831.0796,-6955.2785
+29,CE 1868,Battle of Hakodate,Japan,Hakodate,-4489.6197,5182.5749,3667.2637
+30,CE 1707,Ho-ei eruption,Japan,Mount Fuji,-4626.2589,4367.373,4059.835
+31,CE 1006,SN1006 was Observed,Japan,Kyoto,-4166.8909,4076.2348,4057.4765
+32,CE 2010,Hayabusa Landed on Earth,Australia,Woomera,-4923.8168,-4092.3238,5098.7615
+33,CE 2005,Hayabusa Landed on Itokawa,Solar System,Asteroid,0,8163.2835,0
+34,CE 1964,Games of the 18th Olympiad,Japan,Tokyo,-4961.7535,4670.0835,4205.6816
+35,CE 1054,SN1054 was Observed,Japan,Kyoto,-4178.3586,4087.4531,4068.6431
+36,CE 2003,Hayabusa is Launched,Japan,Kagoshima,-4579.0966,4229.1135,5253.5371
+37,CE 1974,Mungo Man is found,Australia,Willandra Lakes Region,-5343.5697,-4465.8114,4014.5017
+38,CE 1869,Suez Canal opened,Egypt,Port Said,5619.9613,4036.199,3552.1056
+39,CE 2020,the lockdown for covid19,France,(whole),5411.7373,6202.1664,218.9083
+40,CE 1989,Fall of the Berlin Wall,Germany,Berlin,4792.8393,6423.0856,1145.4502
+41,CE 1997,Kyoto Protocol for COP3,Japan,Kyoto,-4768.592,4669.3927,4639.9581
+42,CE 1919,Treaty of Versailles,France,Versailles,5188.1847,5931.4068,192.3423
+43,CE 1851,Taiping Rebellion,China,Nanjing,-3159.4451,4110.4656,5752.0259
+44,CE 794,Relocation to Heiankyo,Japan,Kyoto,-4121.8922,4032.2152,4013.6594
+45,CE 1981,Francois Mitterrand as the 21st President,France,(whole),5299.3322,6073.3437,214.3615
+46,CE 2003,Human Genome Project was declared complete,United States,(whole),1423.2111,5118.3486,-6182.6535
+47,CE 2013,Quelle2013 niconico-live from the hydrothermal vents,North Atlantic Ocean,Caribbean Sea,1109.6839,2588.1335,-7700.6731
 48,CE 1181,SN1181 is Observed,Japan,Kyoto,-4211.35,4119.7267,4100.7682
 49,CE 1230,Teika Fujiwara describes three supernovas,Japan,Kyoto,-4225.4019,4133.4728,4114.4511
-50,CE 2023,Rugby World Cup 2023 opens,France,Saint-Denis,5418.25,6221.6758,223.3028
-51,CE 1526,Mughal Empire begins,India,Delhi,1432.4863,3534.8748,6320.4281
-52,CE 869,Jogan Erthquake,North Pacific Ocean,off the coast of Sanriku,-4453.0031,4389.4087,3259.1056
-53,CE 901,Nihon Sandai Jitsuroku describes Jogan Earthquake,Japan,Kyoto,-4143.4639,4053.3175,4034.6646
-54,CE 1453,Fall of Constantinople,Turkey,Istanbul,4838.4148,4810.6696,2679.4276
-55,CE 1477,Uppsala University Founded,Sweden,Uppsala,3515.8158,6352.8433,1117.2339
-56,CE 1226, Lübeck becomes a Free Imperial City,Germany,Lübeck,4171.33539,5814.8566,787.1592
-57,CE 2023,2023 Six Nations Championship Round 1 (W10-34Ir),United Kingdom,Cardiff,5183.8592,6411.4208,-288.2345
-58,CE 2023,2023 Six Nations Campionship Round 1 (E23-29S),United Kingdom,London,5141.3751,6451.9098,-30.2407
-59,CE 2023,2023 Six Nations Championship Round 1 (It24-29F),Italy,Rome,5992.8594,5513.2311,1323.6172
-60,CE 2023,2023 Six Nations Championship Round 2 (S35-7W),United Kingdom,Edinburgh,4611.7926,6835.853,-256.9726
-61,CE 2023,2023 Six Nations Championship Round 2 (Ir32-19F),Ireland,Dublin,4897.3095,6617.7227,-534.4685
-62,CE 2023,2023 Six Nations Campionship Round 2 (E31-14It),United Kingdom,London,5134.9683,6457.2264,-11.4268
-63,BCE 2600,Moenjodaro is established,Pakistan,Sindh,2140.1264,2969.6391,5334.1666
-64,CE 1922,Moenjodaro is escavated,Pakistan,Sindh,2609.5965,3621.0757,6504.2911
-65,BCE 2950,Harappa is established,Pakistan,Punjab,1631.1403,3280.3908,5294.1468
-66,CE 1921,Harappa is escavated,Pakistan,Punjab,1997.9781,4018.1395,6484.7824
-67,BCE 6000,Agriculture and livestock at Mehrgarh,Pakistan,Balochistan,2066.989,3079.6735,5009.3067
-68,CE 1974,Lowest level of the Mehergarh site carbon dated to 7000 B.C,Pakistan,Balochistan,2665.3865,3971.2453,6459.5113
-69,BCE 3520,City Dwarka,India,Arabian Sea,2123.2191,2418.1428,5522.5302
-70,CE 1981,The Underwater Ruins of Dwarka is escavated,Indian Ocean,Arabian Sea,2678.0798,3050.0759,6965.7327
-71,207.0M years ago,Rochechouart impact structure,France,Rochechouart Crater,1272.206,1309.1222,17.3943
-72,CE 1961,Vostok-1 is launched,Kazakhstan,Baikonur,2496.9674,5748.6433,4965.7465
-73,CE 1961,Yuri Gagarin safely landing,Russia,Saratov Oblast,3390.5091,6282.4848,3602.113
-74,42.0M years ago,Mungo Man is buried,Australia,Lake Mungo,-1674.0505,-1399.0636,1257.6758
-75,CE 1974,Mungo Man is found,Australia,Willandra Lakes Region,-5343.5697,-4465.8114,4014.5017
-76,CE 1911,Amundsen Corps reaches the South Pole,Antarctica,the South Pole,0,-7864.9567,0
+50,CE 1600,Battle of Sekigahara,Japan,Sekigahara,-4399.2874,4308.1082,4180.3751
+51,CE 2023,2023 Six Nations Championship Round 2 (Ir32-19F),Ireland,Dublin,4897.3095,6617.7227,-534.4685
+52,CE 2023,Rugby World Cup 2023 opens,France,Saint-Denis,5418.25,6221.6758,223.3028
+53,CE 1526,Mughal Empire begins,India,Delhi,1432.4863,3534.8748,6320.4281
+54,CE 869,Jogan Erthquake,North Pacific Ocean,off the coast of Sanriku,-4453.0031,4389.4087,3259.1056
+55,CE 901,Nihon Sandai Jitsuroku describes Jogan Earthquake,Japan,Kyoto,-4143.4639,4053.3175,4034.6646
+56,CE 1453,Fall of Constantinople,Turkey,Istanbul,4838.4148,4810.6696,2679.4276
+57,CE 1477,Uppsala University Founded,Sweden,Uppsala,3515.8158,6352.8433,1117.2339
+58,CE 1226,Lübeck becomes a Free Imperial City,Germany,Lübeck,4171.33539,5814.8566,787.1592
+59,CE 2023,2023 Six Nations Championship Round 1 (W10-34Ir),United Kingdom,Cardiff,5183.8592,6411.4208,-288.2345
+60,CE 2023,2023 Six Nations Campionship Round 1 (E23-29S),United Kingdom,London,5141.3751,6451.9098,-30.2407
+61,CE 2023,2023 Six Nations Championship Round 1 (It24-29F),Italy,Rome,5992.8594,5513.2311,1323.6172
+62,CE 2023,2023 Six Nations Championship Round 2 (S35-7W),United Kingdom,Edinburgh,4611.7926,6835.853,-256.9726
+63,CE 2023,2023 Six Nations Campionship Round 2 (E31-14It),United Kingdom,London,5134.9683,6457.2264,-11.4268
+64,CE 1911,Amundsen Corps reaches the South Pole,Antarctica,the South Pole,0,-7864.9567,0
+65,BCE 2600,Moenjodaro is established,Pakistan,Sindh,2140.1264,2969.6391,5334.1666
+66,CE 1922,Moenjodaro is escavated,Pakistan,Sindh,2609.5965,3621.0757,6504.2991
+67,BCE 2950,Harappa is established,Pakistan,Punjab,1631.1403,3280.3908,5294.1468
+68,CE 1921,Harappa is escavated,Pakistan,Punjab,1997.9781,4018.1395,6484.7824
+69,BCE 6000,Agriculture and livestock at Mehrgarh,Pakistan,Balochistan,2066.989,3079.6735,5009.3067
+70,CE 1974,Lowest level of the Mehergarh site carbon dated to 7000 B.C,Pakistan,Balochistan,2665.3865,3971.2453,6459.5113
+71,BCE 3520,City Dwarka,India,Arabian Sea,2123.2191,2418.1428,5522.5302
+72,CE 1981,The Underwater Ruins of Dwarka is escavated,Indian Ocean,Arabian Sea,2678.0798,3050.0759,6965.7327
+73,207.0M years ago,Rochechouart impact structure,France,Rochechouart Crater,1272.206,1309.1222,17.3943
+74,CE 1961,Vostok-1 is launched,Kazakhstan,Baikonur,2496.9674,5748.6433,4965.7465
+75,CE 1961,Yuri Gagarin safely landing,Russia,Saratov Oblast,3390.5091,6282.4848,3602.113
+76,42.0M years ago,Mungo Man is buried,Australia,Lake Mungo,-1674.0505,-1399.0636,1257.6758
 77,CE 1957,Showa Station Landing Ceremony,Antarctica,Ongul Island,2204.26,-7453.4863,1822.4665
 78,CE 1488,Europeans arrive the southernmost part of Africa,South Africa,Cape of Good Hope,5758.1849,-4150.431,1923.9242
 79,CE 1991,Apartheid legislation is repealed,South Africa,(whole),6359.1145,-4050.9819,2965.3038
@@ -84,18 +84,56 @@ id,annee,affair,location,precise,x_coordinate,y_coordinate,z_coordinate
 83,CE 800,Senegambian stone circles,Gambia,Senegambia,6578.5107,1663.2519,-1827.1648
 84,CE 800,Senegambian stone circles,Senegal,Senegambia,6578.5107,1663.2519,-1827.1648
 85,214.0M years ago,Manicouagan crater,Canada,Quebec,410.5906,1415.083,-1053.1105
-86,2023.0M years ago,Vredefort crater,South Africa,Free State,661.5365,-379.3193,341.4445
-87,66.1M years ago,Chicxulub crater,Mexico,Yucatan,18.8689,844.4733,-2162.1655
-88,1849.0M years ago,Sudbury crater,Canada,Ontario,92.1044,635.4488,-593.8135
-89,35.7M years ago,Popigai crater,Russia,Siberia,-294.5084,2457.1862,759.9448
-90,580.0M years ago,Acraman crater,Australia,South Australia,-832.6999,-730.6146,819.7215
-91,146.1M years ago,Morokweng crater,South Africa,Kalahari Desert,1596.8405,-881.0403,762.7934
-92,70.3M years ago,Kara crater,Russia,Nenetsia,356.9029,2143.5794,736.6478
-93,600.0M years ago,Beaverhead crater,United States,Idaho,-397.2116,951.3439,-892.1519
+86,66.1M years ago,Chicxulub crater,Mexico,Yucatan,18.8689,844.4733,-2162.1655
+87,35.7M years ago,Popigai crater,Russia,Siberia,-294.5084,2457.1862,759.9448
+88,600.0M years ago,Beaverhead crater,United States,Idaho,-397.2116,951.3439,-892.1519
+89,2023.0M years ago,Vredefort crater,South Africa,Free State,661.5365,-379.3193,341.4445
+90,1849.0M years ago,Sudbury crater,Canada,Ontario,92.1044,635.4488,-593.8135
+91,580.0M years ago,Acraman crater,Australia,South Australia,-832.6999,-730.6146,819.7215
+92,146.1M years ago,Morokweng crater,South Africa,Kalahari Desert,1596.8405,-881.0403,762.7934
+93,70.3M years ago,Kara crater,Russia,Nenetsia,356.9029,2143.5794,736.6478
 94,120.0M years ago,Tookoonooka crater,Australia,Queensland,-1533.0742,-742.9897,1162.2629
-95,342.0M years ago,Charlevoix crater,Canada,Quebec,365.8547,1185.797,-1021.7926
-96,377.0M years ago,Siljan Ring,Sweden,Dalarna,732.6422,1369.3738,194.4838
-97,25.0M years ago,Karakul crater,Tajikistan,Pamir Mountains,607.1997,1727.1848,2043.3223
-98,50.5M years ago,Montagnais crater,Canada,Nova Scotia,777.1077,1659.2194,-1608.7138
-99,244.4M years ago,Araguainha crater,Brazil,Central Brazil,1010.6727,-506.3031,-1340.3949
-100,35.0M years ago,Chesapeake Bay crater,United States,Virginia,499.3848,1573.407,-2005.3979
+95,25.0M years ago,Karakul crater,Tajikistan,Pamir Mountains,607.1997,1727.1848,2043.3223
+96,50.5M years ago,Montagnais crater,Canada,Nova Scotia,777.1077,1659.2194,-1608.7138
+97,244.4M years ago,Araguainha crater,Brazil,Central Brazil,1010.6727,-506.3031,-1340.3949
+98,35.0M years ago,Chesapeake Bay crater,United States,Virginia,499.3848,1573.407,-2005.3979
+99,342.0M years ago,Charlevoix crater,Canada,Quebec,365.5847,1185.797,-1021.7926
+100,377.0M years ago,Siljan Ring,Sweden,Dalarna,732.6422,1369.3738,194.4838
+101,142.0M years ago,Mjølnir crater,Norway,Barents Sea,482.2297,1910.2393,274.6865
+102,196.0M years ago,Puchezh-Katunki crater,Russia,Nizhny Novgorod Oblast,728.6084,1550.331,696.6773
+103,CE 1879,-23.9˚C in Paris and the Seine river froze over,France,Paris,5125.9104,5871.492,209.982
+104,CE 2023,SLIM（Smart Lander for Investigating Moon）is launched,Japan,Kagoshima,-4636.0427,4281.7072,5318.8707
+105,CE 2024,SLIM（Smart Lander for Investigating Moon）Moon Landing,Solar System,Moon,0,8255.3365,0
+106,CE 2024,Noto Peninsula Earthquake,Japan,Noto Peninsula,-4814.1109,5018.0716,4448.4872
+107,CE 1910,1910 Great Flood of Paris,France,Paris,5167.7762,5919.2617,211.6948
+108,CE 1942,Bombing of Darwin,Australia,Darwin,-5069.887,-1711.8719,5866.6177
+109,CE 1513,Panama Isthmus crossing,Panama,Gulf of Panama,1265.635,1110.9583,-7177.7727
+110,CE 1880,Panama Canal construction begins by France,Panama,(whole),1338.4979,1174.9164,-7590.9988
+111,CE 1903,Hay-Bunau-Varilla Treaty,United States,Washington D.C.,1371.9183,4927.9999,-5950.1958
+113,CE 2021,Restoration of Islamic Emirate of Afganistan,Afghanistan,Kabul,2496.9198,4308.3971,6567.4207
+114,CE 1912,Proclamation of independence from the Ottoman Empire,Albania,Tirana,5579.3456,5161.3166,2030.7157
+115,CE 1962,Independence of People's Democratic Republic of Algeria,Algeria,Argiers,7059.3766,3755.8251,246.5189
+116,CE 1993,Constitution enacted,Andorra,Andora la Vella,5971.1189,5483.2096,165.0467
+117,CE 2010,Constitution enacted,Angola,Luanda,7575.9562,-1771.0716,2534.8795
+118,CE 1981,Independence from UK,Antigua and Barbuda,St. John's,3643.7893,2364.8171,-6795.6383
+119,CE 2023,Declines the offer to join BRICS,Argentina,Buenos Aires,3562.0453,-4687.3912,-5786.2424
+120,CE 1988,Big Earthquake,Armenia,Spitak,4379.6902,5307.8013,4257.5756
+121,CE 1756,Birth of Mozart,Austria,Salzburg,4975.8121,5632.9246,1152.8738
+122,CE 1991,Declaration of Independence,Azerbaijan,Baku,3976.5431,5249.356,4720.825
+123,CE 1973,Independece from the United Kingdom,Bahamas,Nassau,1595.378,3406.1152,-7101.5548
+124,CE 1971,Independence from United Kingdom,Bahrain,Manama,4574.0024,3547.2465,5565.1737
+125,CE 1971,Declaration of Independence from Pakistan,Bangladesh,Dhaka,-49.8726,3235.1823,7347.5057
+126,CE 1966,Independence from the United Kingdom,Barbados,Bridgetown,3947.7715,1816.1155,-6733.7404
+127,CE 1990,Declaration of Independence form Soviet Union,Belarus,Minsk,4229.8712,6543.463,2208.1939
+128,CE 1981,Independence from the United Kingdom,Belize,Belmopan,165.7501,2391.7859,-7700.3613
+129,CE 2024,Shohei Otani makes his debut with the Dodgers,South Korea,Seoul,-3929.9447,5025.8979,5240.4212
+130,CE 2024,Koichi Wakata retires from JAXA,Japan,Tokyo,-5118.5574,4817.9129,4330.8788
+131,CE 2014,K.Wakata becomes the Commander of the ISS,Solar System,International Space Station,8202.9828,0,0
+132,CE 1960,Independence from France,Benin,Porto-Novo,7934.5618,904.5711,361.0002
+133,CE 1907,the first King of Bhutan,Bhutan,Thimphu,44.7151,3253.6258,7150.3005
+134,CE 2006,the 65th President of Bolivia,Bolivia,La Paz,3287.6794,-2318.7485,-7103.9856
+135,CE 1377,Establishment of the Kingdom of Bosnia,Bosnia and Herzegovina,,4963.7871,5071.1946,1635.6397
+136,200M years ago,appearance of Homo Sapiens,Botswana,Makgadikgade-Okavango,1560.8178,-651.0667,726.1836
+137,CE 1984,Indipendence from the United Kingdom,Brunei,Bandar Seri Begawan,-3392.5732,676.8517,7294.6
+138,CE 681,First Bulgarian Empire,Bulgaria,Pliska,4520.3374,4801.0435,2316.3602
+139,CE 1960,Independence from France,Burkina Faso,Ouagadougou,7805.8262,1712.3466,-208.1519
