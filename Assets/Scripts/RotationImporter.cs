@@ -17,11 +17,11 @@ public class RotationImporter : MonoBehaviour
             string[] parts = lines[i].Split(',');
             if(parts.Length < 2) continue; // フィールドが足りない行は無視
 
-            float rx = float.Parse(parts[0]);
+            float ry = float.Parse(parts[0]);
             float rz = float.Parse(parts[1]);
 
             // オブジェクトを生成し、位置とテキストを設定
-            GameObject columnObject = Instantiate(radialPrefab, new Vector3(0, 0, 0), Quaternion.Euler(rx, 0, rz));
+            GameObject columnObject = Instantiate(radialPrefab, new Vector3(0, 0, 0), Quaternion.Euler(0, ry, rz));
  
         }
     }

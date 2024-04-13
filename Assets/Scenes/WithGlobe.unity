@@ -228,52 +228,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1 &245643610
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 245643612}
-  - component: {fileID: 245643611}
-  m_Layer: 0
-  m_Name: RadialManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &245643611
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 245643610}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6f82e542a25b403fa2b55b39cedfadc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  radialPrefab: {fileID: 3073990479163546405}
-  fileName: Rotation
---- !u!4 &245643612
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 245643610}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.6988854, y: -5.5720725, z: -0.53342056}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &267732793
 GameObject:
   m_ObjectHideFlags: 0
@@ -1154,6 +1108,108 @@ LightingSettings:
   m_PVRTiledBaking: 0
   m_NumRaysToShootPerTexel: -1
   m_RespectSceneVisibilityWhenBakingGI: 0
+--- !u!1 &1351599770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1351599771}
+  - component: {fileID: 1351599772}
+  m_Layer: 0
+  m_Name: 300LineManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1351599771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1351599770}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.8873253, y: 1.3178635, z: 1.9668617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1351599772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1351599770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9297c977874ba4f78af720040f189d8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedPrefab: {fileID: 440890041}
+  lineMaterial: {fileID: 2100000, guid: 96d479a72f8f14aceb4775ed7186f1fd, type: 2}
+  filenameEquator: Equator
+  filenameLatitude30: Latitude30Line
+  filenameLatitude60: Latitude60Line
+  filenameLatitude30South: Latitude30LineSouth
+  filenameLatitude60South: Latitude60LineSouth
+--- !u!1 &1400353076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1400353078}
+  - component: {fileID: 1400353077}
+  m_Layer: 0
+  m_Name: LatitudeLineManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1400353077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1400353076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4d22511c1677436b81b3255d155b14e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedPrefab: {fileID: 440890041}
+  lineMaterial: {fileID: 2100000, guid: 96d479a72f8f14aceb4775ed7186f1fd, type: 2}
+  filenameEquator: Equator
+  filenameLatitude30: Latitude30Line
+  filenameLatitude60: Latitude60Line
+  filenameLatitude30South: Latitude30LineSouth
+  filenameLatitude60South: Latitude60LineSouth
+--- !u!4 &1400353078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1400353076}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1489671978
 GameObject:
   m_ObjectHideFlags: 0
@@ -2105,6 +2161,57 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1882896220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1882896222}
+  - component: {fileID: 1882896221}
+  m_Layer: 0
+  m_Name: 200LineManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1882896221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1882896220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e30f36d8a3f94197bdbcf9935d6b5bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedPrefab: {fileID: 440890041}
+  lineMaterial: {fileID: 2100000, guid: 96d479a72f8f14aceb4775ed7186f1fd, type: 2}
+  filenameEquator: Equator
+  filenameLatitude30: Latitude30Line
+  filenameLatitude60: Latitude60Line
+  filenameLatitude30South: Latitude30LineSouth
+  filenameLatitude60South: Latitude60LineSouth
+--- !u!4 &1882896222
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1882896220}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2017429082
 GameObject:
   m_ObjectHideFlags: 0
@@ -2330,7 +2437,7 @@ PrefabInstance:
     - target: {fileID: 511357856290808353, guid: 0ad3b131f68b84dcc9899e51dd2b9e45, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a36079526e7834e4ab07079b78644ce4, type: 2}
+      objectReference: {fileID: 2100000, guid: 11a572643f6a9479e96467d846f3e867, type: 2}
     - target: {fileID: 2264343774775466136, guid: 0ad3b131f68b84dcc9899e51dd2b9e45, type: 3}
       propertyPath: m_LocalScale.y
       value: 500
@@ -2388,11 +2495,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ad3b131f68b84dcc9899e51dd2b9e45, type: 3}
---- !u!1 &3073990479163546405 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3320186788386397307, guid: 0ad3b131f68b84dcc9899e51dd2b9e45, type: 3}
-  m_PrefabInstance: {fileID: 3073990479163546404}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3443583223511215331
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3338,4 +3440,6 @@ SceneRoots:
   - {fileID: 1881891100}
   - {fileID: 1648301600}
   - {fileID: 3073990479163546404}
-  - {fileID: 245643612}
+  - {fileID: 1400353078}
+  - {fileID: 1351599771}
+  - {fileID: 1882896222}
