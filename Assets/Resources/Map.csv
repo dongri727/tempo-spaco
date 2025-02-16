@@ -1,4 +1,4 @@
-id,annee,affaire,location,precise,latitude,longitude,logarithm
+id,annee,affair,location,precise,latitude,longitude,logarithm
 1,4.56B years ago,Sun is born,Solar System,Sun,90,0,-6337.4461
 2,13.8B years ago,Big Bang,Universe,(whole),90,0,-6818.3602
 3,13B years ago,Milky Way is born,Milky Way,(whole),90,0,-6792.4245
@@ -103,13 +103,14 @@ id,annee,affaire,location,precise,latitude,longitude,logarithm
 102,196.0M years ago,Puchezh-Katunki crater,Russia,Nizhny Novgorod Oblast,56.9666,43.7166,-4970.7418
 103,CE 1879,-23.9˚C in Paris and the Seine river froze over,France,Paris,48.8547,2.3458,977.0166
 104,CE 2023,SLIM（Smart Lander for Investigating Moon）is launched,Japan,Kagoshima,31.2511,131.0761,1433.2596
-105,CE 2024,SLIM（Smart Lander for Investigating Moon）Moon Landing,Solar System,Moon,90,0,1435.3365
-106,CE 2024,Noto Peninsula Earthquake,Japan,Noto Peninsula,37.4363,137.2604,1435.0436
-107,CE 1910,1910 Great Flood of Paris,France,Paris,48.8547,2.3458,1040.616
-108,CE 1942,Bombing of Darwin,Australia,Darwin,-12.45,130.8333,1120.4914
-109,CE 1513,Panama Isthmus crossing,Panama,Gulf of Panama,8.666667,-80,552.6848
-110,CE 1880,Panama Canal construction begins by France,Panama,(whole),8.666667,-80,977.132
-111,CE 1903,Hay-Bunau-Varilla Treaty,United States,Washington D.C.,38.9047,-77.0163,1026.7938
+105,CE 1951,Barda Balka site is escavated,Iraq,Shamshamal,35.5333,44.8333,1145.1864
+106,CE 2024,SLIM（Smart Lander for Investigating Moon）Moon Landing,Solar System,Moon,90,0,1435.3365
+107,CE 2024,Noto Peninsula Earthquake,Japan,Noto Peninsula,37.4363,137.2604,1435.0436
+108,CE 1910,1910 Great Flood of Paris,France,Paris,48.8547,2.3458,1040.616
+109,CE 1942,Bombing of Darwin,Australia,Darwin,-12.45,130.8333,1120.4914
+110,CE 1513,Panama Isthmus crossing,Panama,Gulf of Panama,8.666667,-80,552.6848
+111,CE 1880,Panama Canal construction begins by France,Panama,(whole),8.666667,-80,977.132
+112,CE 1903,Hay-Bunau-Varilla Treaty,United States,Washington D.C.,38.9047,-77.0163,1026.7938
 113,CE 2021,Restoration of Islamic Emirate of Afganistan,Afghanistan,Kabul,31.5167,69.1833,1421.8389
 114,CE 1912,Proclamation of independence from the Ottoman Empire,Albania,Tirana,41,20,1047.1528
 115,CE 1962,Independence of People's Democratic Republic of Algeria,Algeria,Algiers,28,2,1180.112
@@ -127,3 +128,190 @@ id,annee,affaire,location,precise,latitude,longitude,logarithm
 127,CE 1990,Declaration of Independence form Soviet Union,Belarus,Minsk,53.9,27.5667,1278.4467
 128,CE 1981,Independence from the United Kingdom,Belize,Belmopan,17.2514,-88.7669,1244.966
 129,CE 2024,Shohei Otani makes his debut with the Dodgers,South Korea,Seoul,37.4982,126.8673,1436.2782
+130,CE 2024,Koichi Wakata retires from JAXA,Japan,Tokyo,35.6996,139.765,1436.4173
+131,CE 2014,K.Wakata becomes the Commander of the ISS,Solar System,"ISS International Space Station",0,0,1382.9828
+132,CE 1960,Independence from France,Benin,Porto-Novo,6.4972,2.605,1174.1129
+133,CE 1907,the first King of Bhutan,Bhutan,Thimphu,24.4667,89.6417,1035.8817
+134,CE 2006,the 65th President of Bolivia,Bolivia,La Paz,-16.5002,-65.1656,1344.0702
+135,CE 1377,Establishment of the Kingdom of Bosnia,Bosnia and Herzegovina,,44.1369,18.2378,462.274
+136,200k years ago,appearance of Homo Sapiens,Botswana,Makgadikgade-Okavango,-20.7167,24.9506,-1984.0497
+137,CE 1984,Indipendence from the United Kingdom,Brunei,Bandar Seri Begawan,4.8092,114.9422,1253.3432
+138,CE 681,First Bulgarian Empire,Bulgaria,Pliska,43.387,27.132,169.2055
+139,CE 1960,Independence from France,Burkina Faso,Ouagadougou,12.3686,-1.5275,1174.1467
+140,CE 1486,Virgin of the Rocks,Italy,Milano,45.4669,9.19,532.5859
+141,CE 1789,1st President of the US,United States,New York,40.7072,-74.0102,827.8286
+142,CE 1804,I.Kant dies,Germany,Königsberg,54.7114,20.5093,848.9343
+143,CE 1905,Annus mirabilis,Switzerland,Bern,46.9476,7.45,1029.0813
+144,CE 1616,W.Shakespeare dies,United Kingdom,Stratford-upon-Avon,52.1928,-1.7064,636.0586
+145,CE 2007,The iPhone is unveiled,United States,San Francisco,37.7667,-22.4333,1348.5047
+146,CE 1985,Studio Ghibli is founded,Japan,Koganei,35.6995,139.503,1258.7829
+147,CE 2010,N.Yamazaki arrives at the ISS,Solar System,"ISS International Space Station",0,0,1363.7704
+148,CE 1786,The first performance of The Marriage of Figaro,Austria,Wien,48.2103,16.3594,823.6719
+149,CE 1962,Independence from Belgium,Burundi,Gitega,3.4333,29.9,1180.0777
+150,CE 1975,Independece from Portugal,Cabo Verde,Praia,14.918,-23.509,1222.9225
+151,CE 802,Jayavarman II becomes King,Cambodia,Phnom Kulen,13.6128,104.1125,207.8824
+152,CE 1960,Independence from France,Cameroon,Yaounde,3.8748,11.5165,1172.3082
+153,CE 1960,Independence from France,Central African,Bangui,4.3635,18.5836,1174.2144
+154,CE 1960,Independence from France,Chad,N'Djamena,12.1052,15.0448,1174.1974
+155,CE 1975,Independence from France,Comoros,Moroni,-11.6759,43.2621,1222.9319
+156,CE 1960,Independence from France,Congo-Republic of the,Brazzaville,-4.2789,15.2784,1174.2313
+157,CE 1960,Independence from  Belgium,Congo-DR,Kinshasa,4.3061,15.3085,1173.8426
+158,CE 1965,Self-governance in New Zealand,Cook Islands,Avarua,-21.2078,-159.7788,1189.8862
+159,CE 1850,University of Utah is setablished,United States,Salt Lake City,40.7642,-111.8465,922.1242
+160,CE 1850,American Express is Founded,United States,City of Buffalo,42.8864,-78.8781,922.2236
+161,CE 1996,Video Game Pokémon launched,Japan,Tokyo,35.6896,139.6921,1302.3118
+162,CE 416,the earliest record of Earthquakes in Japan,Japan,Asuka-mura,34.4713,135.8207,94.8979
+163,CE 553,Mount Aso volcanic eruption,Japan,Mount Aso,32.8842,131.1039,131.725
+164,CE 599,Suiko Earthquake M7,Japan,Nara,34.6853,135.8329,144.8253
+165,CE 630,Mount Yake eruption,Japan,Mount Yake,36.227,137.587,153.882
+166,CE 679,M7 Earthquake,Japan,Fykuoka,33.6061,130.4181,168.5943
+167,CE 684,Hakuhou Earthquake M8,Japan,Toukai,32.8,134.3,170.4263
+168,CE 1608,Quebec City founded,Canada,Quebec,46.8139,-71.2081,629.1199
+169,CE 1502,Christopher Columbus arrives,Costa Rica,Limón,9.9925,-83.0333,544.6114
+170,CE 925,Kingdom of Croatia founded,Croatia,Zagreb,45.801,15.9769,251.0813
+171,CE 1527,Joined Habssburg Monarchy,Croatia,Zagreb,45.801,15.9769,562.6091
+172,CE 1918,Secession from Austria-Hungary,Croatia,Zagreb,45.801,15.9769,1061.0435
+173,CE 1918,Creation of Yugoslavia,Croatia,Zagreb,45.801,15.9769,1061.278
+174,CE 1991,Declaration of independence,Croatia,Zagreb,45.801,15.9769,1282.0506
+175,CE 1992,Admitted to the United Nations,Croatia,Zagreb,45.801,15.9769,1285.6629
+176,CE 2009,Joined NATO,Croatia,Zagreb,45.801,15.9769,1358.9322
+177,CE 2013,Joined the European Union,Croatia,Zagreb,45.801,15.9769,1379.5244
+178,CE 1812,Slaves rebellion,Cuba,Havana,23.1423,-82.3559,860.9168
+179,CE 1868,Declaration of Independence,Cuba,Havana,23.1424,-82.3559,955.6168
+180,CE 1895,War of Independence,Cuba,,23.1424,-82.3559,1008.3204
+181,CE 1898,Handed over to the United States from Spain,Cuba,Havana,23.1424,-82.3559,1016.0501
+182,CE 1902,Independence from United States,Cuba,Havana,23.1424,-82.3559,1023.5134
+183,CE 1953,Cuban Revolution starts,Cuba,,23.1424,-82.3559,1152.9361
+184,CE 1960,Independence from UK,Cyprus,Nicosia,35.1734,33.3659,1174.6287
+185,CE 1993,Establishment of the Czech Republic,Czech Republic,Prague,50.0833,14.4667,1288.1061
+186,CE 1913,Statue of The Little Mermaid at Langeline is opened,Denmark,Copenhagen,55.6929,12.5993,1048.8595
+187,CE 1977,Djibouti gains independece from France,Djibouti,Ville de Djibouti,11.588,43.145,1229.8231
+188,CE 1492,C.Columbus arrives and builds La Navidad,Haiti,Caracol,19.6928,-72.018,537.5665
+189,CE 1978,Dominica gains indepedence from UK,Dominica,Roseau,15.3014,-61.3883,1234.5953
+190,CE 1990,Ciudad Colonial -World Heritige Site,Dominican Republic,Santo Domingo,18.4833,-69.9157,1275.8754
+191,CE 1975,East Timor gains independence from Portugal,East Timor,Dili,-8.5536,125.5783,1224.2958
+192,CE 2002,East Timor gains indepedence from Indonesia,East Timor,Dili,-8.55,125.56,1327.5891
+193,CE 1463,Inca Empire aquires Quito,Ecuador,Quito,-0.2167,-78.5167,516.6424
+194,CE 1821,El Salvador gains independece from Spain,El Salvador,San Salvador,13.6989,-89.1913,875.2008
+195,CE 1945,Imperial Rescript of Ends of War,Japan,Tokyo,35.6896,139.6921,1130.1397
+196,CE 1945,The battleship YAMATO sank,Japan,East China Sea,30.7214,128.0667,1129.148
+197,BCE 8400,Nevalı Çori,Turkey,Şanlıurfa Province,37.5183,38.6056,-699.7152
+198,CE 1783,Mount Asama Eruption (Tenmei),Japan,Mount Asama,36.4064,138.5231,819.9097
+199,CE 1953,First ascent of Everest,Nepal,Mount Everest,27.9881,86.9253,1152.4695
+200,CE 1968,Equatorial Guinea declares independence from Spain,Equatorial Guinea,Malabo,3.7554,8.7832,1200.2354
+201,CE 1657,Great Fire of Meireki,Japan,Tokyo,35.6896,139.6921,674.3043
+202,CE 1457,HirayamaJo is built,Japan,Tokyo,35.6896,139.6921,512.5778
+203,CE 1590,Tokugawa Ieyasu moves to Edo Castle,Japan,Tokyo,35.6896,139.6921,613.0284
+204,CE 1991,Eritrea gains independence from Ethiopia,Eritrea,Asmara,15.3363,38.942,1281.704
+205,CE 1991,Estonia's independence from the Soviet Union is approved,Estonia,Tallinn,59.437,24.7452,1282.8314
+206,234M years ago,the Carnian Pluvial Epsode,Solar System,Earth,90,0,-5047.7008
+207,CE 1853,Perry Expedition,Japan,Uraga,35.2475,139.714,927.8143
+208,CE 1929,Lateran Treaty,Vatican City,,41.9033,12.45333,1086.2803
+209,BCE 2112,Third Dynasty of Ur,Iraq,Ur,30.9617,46.1051,-303.0813
+210,BCE 1792,Empire of Hammurabi,Iraq,Babylon,32.5425,44.4211,-268.7749
+211,BCE 605,Nebuchadnezzar II,Iraq,Babylon,32.5425,44.4211,-110.8225
+212,BCE 858,Shalmaneser III,Iraq,Assur,35.4567,43.2625,-149.6385
+213,BCE 612,Battle of Nineveh,Iraq,Mosul,33.3351,44.4048,-111.9444
+214,BCE 539,Battle of Opis,Iraq,Baghdad,33.3351,44.4048,-100.0989
+215,CE 1949,Human Born is found at Barda Balka,Iraq,Shamshamal,35.5333,44.8333,1139.4412
+216,120.0K years ago,Barda Balka Mankind,Iraq,Shamshamal,35.5333,44.8333,-1765.2006
+217,CE 1951,Shanidar Cave is found,Iraq,Shanidar Cave,36.8006,44.2433,1145.1904
+218,60.0K years ago,Neanderthal in Shanidar Cave,Iraq,Shanidar Cave,36.8006,44.2433,-1471.5803
+219,CE 1960,the Flower Burial in Shanidar 4 is found,Iraq,Shanidar Cave,36.8006,44.2433,1172.0474
+220,12.0K years ago,the Flower Burial in Shanidar 4,Iraq,Shanidar Cave,36.8006,44.2433,-827.7336
+221,CE 2024,Announced the completion of the world's first wooden satellite,Japan,Kyoto,35.0261,135.7808,1437.3459
+222,CE 1977,VoyagerI is launched,United States,Florida,28.4889,-80.5778,1230.4866
+223,CE 1979,Voyger I makes closest approach to Jupiter,Solar System,Jupiter,0,0,1235.8015
+224,CE 1980,VoyagerI makes closest approach to Saturn,Solar System,Saturn,0,0,1241.8534
+225,CE 2012,Voyager I leaves the heliosphere,Solar System,Heliosphere,0,0,1375.3271
+226,CE 1977,Voyager II is launched,United States,Florida,28.4889,-80.5778,1230.3422
+227,CE 1979,Voyger II makes closest approach to Jupiter,Solar System,Jupiter,0,0,1237.0305
+228,CE 1981,Voyger II makes closest approach to Saturn,Solar System,Saturn,0,0,1244.7074
+229,CE 1986,Voyger II makes closest approach to Uranus,Solar System,Uranus,0,0,1261.0688
+230,CE 1989,Voyger II makes closest approach to Neptune,Solar System,Neptune,0,0,1274.8404
+231,CE 2018,Voyager II leaves the heliosphere,Solar System,Heliosphere,0,0,1406.8955
+232,CE 1993,Comet Shoemaker-Levy 9 is found,Solar System,Jupiter,0,0,1289.0301
+233,CE 1997,Cassini-Huygens is launched,United States,Florida,28.4889,-80.5778,1307.807
+234,CE 1662,Kanbun Ohmi-Wakasa Earthquake,Japan,Biwa-ko,35.2,135.95,679.5114
+235,CE 2024,Flutter Ninjas is held,Japan,Tokyo,35.6896,139.6921,1437.5939
+236,CE 1799,Rosetta Stone is found,Egypt,Rosetta,31.4,30.4167,842.2906
+237,CE 2003,Rosetta Stone return request,Egypt,Cairo,30.0333,31.2333,1332.5143
+238,CE 1885,First Supernova Observation Outside the Milky Way,Universe,SN1885A,90,0,988.336
+239,CE 1987,Supernova in the Large Magellanic Cloud Observed with the naked eye,Universe,SN1987A,90,0,1265.1765
+240,CE 1998,Cassini–Huygens first swing-by at Venus,Universe,Venus,90,0,1310.0432
+241,CE 2019,Emperor Reiwa assumed the throne,Japan,,35.6896,139.6921,1409.4886
+242,CE 2018,Alexander the Great Marble Statue Excavated,Egypt,Alexandria,31.198,29.9192,1404.2172
+243,CE 2024,Windows Blue Screen of Death,Japan,,35.6896,139.6921,1438.1523
+244,2.8B years ago,Geomagnetism and Van Allen Belt Occurrence,Solar System,Earth,90,0,-6125.6394
+245,CE 1958,Van Allen Radiation Belt is found,Solar System,Earth,90,0,1165.934
+246,CE 1958,the first American stellite Explorer 1 is launched,United States,Florida,28.3883,-80.6036,1166.4402
+247,CE 1958,Explorer 3 is launched,United States,Florida,28.3883,-80.6036,1166.9054
+248,CE 1990,Hubble Space Telescope is launched,United States,Florida,28.6083,-80.6043,1277.4378
+249,CE 1993,Hubble Space Telescope Service Mission 1,Solar System,Hubble Space Telescope,90,0,1291.8026
+250,CE 1995,Hubble Deep Field observation starts,Solar System,Hubble Space Telescope,90,0,1300.194
+251,CE 1493,Second sailing of C.Columbus,Spain,Cádiz,36.535,-6.2975,538.1406
+252,CE 1492,C.Columbus sailed for India,Spain,Palos de la Frontera,37.2283,-6.8944,537.3246
+253,CE 1492,Santa María is stricken,North Atlantic Ocean,"off the coast of Cap Haitien Haiti",19.76,-72.2,537.6036
+254,BCE 1200,Cape Gelldonya Shipwreck,Turkey,Mediterranean Sea,36.1933,30.4031,-197.1378
+255,CE 1960,Excavation of the Cape Gelidonya Shipwreck Begins,Turkey,Mediterranean Sea,36.1933,30.4031,1172.0474
+256,BCE 70,Antikythera Sipwreck,Greece,Aegean Sea,35.861,23.301,-15.1579
+257,CE 1900,Antikythera Shipwreck is found,Greece,Aegean Sea,35.861,23.301,1018.1458
+258,CE 1901,Salvage operation of Antikythera Wreck begins,Greece,Aegean Sea,35.861,23.301,1022.3023
+259,CE 1606,Nossa Senhora dos Mártires sank (Pepper-Wreck),Portugal,Lisbon,38.6606,-9.2989,627.5326
+260,CE 2024,Perseverance collects Cheyava Falls,Solar System,Mars,90,0,1438.1833
+261,CE 2004,Cassini Enters Orbit Around Saturn,Solar System,Saturn,90,0,1337.0039
+262,CE 2013,The Day the Earth Smiles,Solar System,Saturn,90,0,1379.7686
+263,CE 2004,Cassini Discovers Saturn's Moons Methone and Pallene,Solar System,Saturn,90,0,1337.5638
+264,CE 2004,Cassini Deploys Huygens Towards Titan,Solar System,Saturn,90,0,1339.1735
+265,CE 2005,Huygens Lands on Titan,Solar System,"Titan/ Saturn VI",90,0,1339.4208
+266,CE 1846,Neptune is found,Solar System,Neptune,90,0,916.223
+267,CE 1846,J.G.Galle discovers Neptune with using a telescope,Germany,Berlin,52.5164,13.3775,916.223
+268,CE 2012,Curiosity soft landing on Mars,Solar System,Mars,90,0,1375.072
+269,CE 2024,Publication in the PNAS reports the discovery of liquid water 10 km beneath Mars' surface,World Wide,(whole),0,0,1438.525
+270,CE 2015,"Paper about ""Carnufex carolinensis"" published",World Wide,(whole),0,0,1388.1257
+271,230M years ago,Carnufex carolinensis,United States,North Calrolina,35.8189,-78.6447,-5040.2129
+272,CE 2012,Nature Research Center (City of Raleigh) opened,United States,North Calrolina,35.8189,-78.6447,1371.7291
+273,CE 1953,North Sea Flood of 1953,North Atlantic Ocean,North Sea,56.3,3,1151.5058
+274,CE 1924,Taung Child is found,South Africa,Taung,-27.5625,24.7481,1075.5952
+275,284M years ago,Eudibamus Cursoris,Germany,Tambach-Dietharz,50.7897,10.6167,-5131.8026
+276,CE 641,Islamic Conquest of Alexandria,Egypt,Alexandria,31.2156,29.9553,157.414
+277,CE 762,Abbasid Caliphate Begins Construction of Baghdad,Iraq,Baghdad,33.3152,44.3661,194.7118
+278,CE 805,Harun al-Rashid Builds Bimaristan,Iraq,Baghdad,33.3152,44.3661,208.8864
+279,CE 969,Fatimid Caliphate Conquers Egypt and Builds Cairo,Egypt,Cairo,30.0444,31.2357,267.641
+280,CE 987,"Ibn al-Nadim compiles ""Kitab al-Fihrist""",Iraq,Baghdad,33.3152,44.3661,274.6018
+281,CE 1258,"""Bayt al-Hikma"" is dissolved",Iraq,Baghdad,33.3152,44.3661,395.7533
+282,CE 1259,The Maragheh Observatory is built,Iran,Maragheh,37.3981,46.2092,396.1645
+283,CE 980,"""Cordoba Calendar"" is created",Spain,Córdoba,37.8847,-4.7789,271.8815
+284,CE 987,"""Tabaqat al-Atibba' wa-l-Hukama"" is written",Spain,Córdoba,37.8847,-4.7789,274.6018
+285,CE 1068,"""Kitab Tabaqat al-Umam"" is written",Spain,Toledo,39.8567,-4.0244,307.3841
+286,CE 1490,"""Vitruvian Man"" is drawn",Italy,Milano,45.4624,9.19,535.4194
+287,CE 1526,Construction of Casa de Colon&Huerta de Colon begins,Spain,Sevilla,37.3772,-5.9869,561.915
+288,BCE 1629,Abi-Eshuh causes a flood on the Tigris to weaken Isin,Iraq,Babylon,32.5422,44.4214,-250.1998
+289,BCE 650,Enûma Eliš inscribed on clay tablets,Iraq,Nineveh,36.3594,43.1528,-117.985
+290,CE 2024,Nga Wai Hono I Te Po Paki elected as new Māori Queen,New Zealand,Ngāruawāhia,-37.6667,175.15,1438.8824
+291,CE 1783,Lakagigar éruption,Iceland,,64.1462,-21.9424,819.693
+292,CE 2010,Eyjafjallajökull éruption,Iceland,,64.1462,-21.9424,1363.7573
+293,BCE 650,"""Atra-Hasis Epic"" inscribes on clay tablets",Iraq,Nineveh,36.3594,43.1528,-117.985
+294,CE 1849,Library of Ashurbanipal is found,Iraq,Nineveh,36.3594,45.1528,919.9771
+295,CE 1972,Discovery of the TAG Hydrothermal Field,North Atlantic Ocean,Mid-Atlantic Ridge,26.08,-44.49,1210.6533
+296,CE 1977,Discovery of the Galapagos Hydrothermal Field,North Pacific Ocean,,0.8,-86.0833,1227.8102
+297,CE 1985,Discovery of the Rosebery Hydrothermal Field,Indian Ocean,,-21.1333,73.5,1256.7542
+298,CE 2000,Discovery of the Lost-City Hydrothermal Field,North Atlantic Ocean,Mid-Atlantic Ridge,30.0111,-42.1333,1316.8452
+299,CE 1987,Discovery of the Marina Hydrothermal Field,North Pacific Ocean,Mariana Trough,12.95,143.6167,1264.3019
+300,CE 1912,Titanic Departure,United Kingdom,Southampton,50.8998,-1.4044,1045.698
+301,CE 1912,Titanic Sinking,North Atlantic Ocean,,41.7325,-49.9469,1045.7294
+302,CE 1985,Titanic Discovery,North Atlantic Ocean,,41.7325,-49.9469,1259.5744
+303,CE 2024,Voyager 1 successfully switches thrusters critical for attitude control,Milky Way,,0,0,1438.9602
+304,CE 1820,Launch of HMS Beagle,United Kingdom,London,51.4927,0.0596,873.3746
+305,CE 1845,HMS Beagle decommissioned,United Kingdom,,51.5917,0.8075,913.1399
+306,CE 1831,Departure of the Second Voyage of HMS Beagle,United Kingdom,Plymouth,50.3641,-4.1216,891.6652
+307,CE 1832,HMS Beagle calls Cape Verde Islands,Cabo Verde,Praia,14.933,-23.5133,891.8372
+308,CE 2024,Mass production of metal nanowires,Japan,Nagoya,35.1525,136.9686,1438.4628
+309,CE 1998,自分の誕生,Universe,,90,0,1309.5812
+310,CE 2024,"SHOGUN" won 18 Emmy Awards,United States,Los Angeles,34.05,-118.25,1439.0379
+311,BCE 2300,Enheduanna becomes the High Priestess of the Nanna Temple,Iraq,Ur,30.9639,46.1038,-322.0408
+312,CE 2024,The Juno spacecraft discovers a new giant volcano on Io from an altitude of 2.530 km,Solar System,Io/Jupiter Iddddd,90,0,1435.5525
+313,CE 415,Hypatia is killed by a mob due to religious conflict,Egypt,Alexandria,31.198,29.9192,94.7043
+314,CE 2024,Research on the Porphyrion black hole jet is publushed,Solar System,Earth,90,0,1439.0846
+315,CE 2020,he sample capsule from Hayabusa2 successfully lands on Earth,Australia,Woomera,-30,134,1418.0731
+316,CE 2010,IKAROS launched,Japan,,30.4,130.97,1364.3462

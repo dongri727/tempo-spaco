@@ -88,7 +88,7 @@ public class PlayerManager : MonoBehaviour
             Input.GetKeyUp(KeyCode.F) ||
             Input.GetKeyUp(KeyCode.G))
         {
-            rb.velocity = Vector3.zero;
+            rb.linearVelocity = Vector3.zero;
             
         }
     }
