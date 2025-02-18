@@ -13,6 +13,9 @@ ScriptsOnlyBuild:
     - GoToGlobe
     - GoToMap
     - HintController
+    - LatitudeLineManager
+    - Line200Manager
+    - Line300Manager
     - NorthSouthImporter
     - PlayerManager
     - PopUp
@@ -181,29 +184,29 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2162}
     - Class: 114
-      Script: {instanceID: 2420}
+      Script: {instanceID: 2422}
     - Class: 114
-      Script: {instanceID: 2884}
+      Script: {instanceID: 2888}
     - Class: 114
-      Script: {instanceID: 3112}
+      Script: {instanceID: 3116}
     - Class: 114
-      Script: {instanceID: 4502}
+      Script: {instanceID: 4506}
     - Class: 114
-      Script: {instanceID: 4570}
+      Script: {instanceID: 4574}
     - Class: 114
-      Script: {instanceID: 4850}
+      Script: {instanceID: 4854}
     - Class: 114
-      Script: {instanceID: 5652}
+      Script: {instanceID: 5658}
     - Class: 114
-      Script: {instanceID: 6302}
+      Script: {instanceID: 6310}
     - Class: 114
-      Script: {instanceID: 6468}
+      Script: {instanceID: 6476}
     - Class: 114
-      Script: {instanceID: 6838}
+      Script: {instanceID: 6846}
     - Class: 114
-      Script: {instanceID: 8412}
+      Script: {instanceID: 8420}
     - Class: 114
-      Script: {instanceID: 8476}
+      Script: {instanceID: 8484}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -262,45 +265,51 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1912}
     - Class: 114
-      Script: {instanceID: 2642}
+      Script: {instanceID: 2392}
     - Class: 114
-      Script: {instanceID: 2884}
+      Script: {instanceID: 2644}
     - Class: 114
-      Script: {instanceID: 3112}
+      Script: {instanceID: 2888}
     - Class: 114
-      Script: {instanceID: 3920}
+      Script: {instanceID: 3116}
     - Class: 114
-      Script: {instanceID: 3932}
+      Script: {instanceID: 3924}
     - Class: 114
-      Script: {instanceID: 4460}
+      Script: {instanceID: 3936}
     - Class: 114
-      Script: {instanceID: 4502}
+      Script: {instanceID: 4464}
     - Class: 114
-      Script: {instanceID: 5152}
+      Script: {instanceID: 4506}
     - Class: 114
-      Script: {instanceID: 5316}
+      Script: {instanceID: 5076}
     - Class: 114
-      Script: {instanceID: 5420}
+      Script: {instanceID: 5158}
     - Class: 114
-      Script: {instanceID: 5652}
+      Script: {instanceID: 5322}
     - Class: 114
-      Script: {instanceID: 6278}
+      Script: {instanceID: 5426}
     - Class: 114
-      Script: {instanceID: 6302}
+      Script: {instanceID: 5658}
     - Class: 114
-      Script: {instanceID: 6468}
+      Script: {instanceID: 6036}
     - Class: 114
-      Script: {instanceID: 6802}
+      Script: {instanceID: 6286}
     - Class: 114
-      Script: {instanceID: 6838}
+      Script: {instanceID: 6310}
     - Class: 114
-      Script: {instanceID: 6998}
+      Script: {instanceID: 6476}
     - Class: 114
-      Script: {instanceID: 8064}
+      Script: {instanceID: 6810}
     - Class: 114
-      Script: {instanceID: 8204}
+      Script: {instanceID: 6846}
     - Class: 114
-      Script: {instanceID: 8412}
+      Script: {instanceID: 7006}
+    - Class: 114
+      Script: {instanceID: 8072}
+    - Class: 114
+      Script: {instanceID: 8212}
+    - Class: 114
+      Script: {instanceID: 8420}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -361,39 +370,39 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1904}
     - Class: 114
-      Script: {instanceID: 2884}
+      Script: {instanceID: 2888}
     - Class: 114
-      Script: {instanceID: 3112}
+      Script: {instanceID: 3116}
     - Class: 114
-      Script: {instanceID: 3920}
+      Script: {instanceID: 3924}
     - Class: 114
-      Script: {instanceID: 4460}
+      Script: {instanceID: 4464}
     - Class: 114
-      Script: {instanceID: 4502}
+      Script: {instanceID: 4506}
     - Class: 114
-      Script: {instanceID: 4536}
+      Script: {instanceID: 4540}
     - Class: 114
-      Script: {instanceID: 5420}
+      Script: {instanceID: 5426}
     - Class: 114
-      Script: {instanceID: 5652}
+      Script: {instanceID: 5658}
     - Class: 114
-      Script: {instanceID: 5920}
+      Script: {instanceID: 5926}
     - Class: 114
-      Script: {instanceID: 6278}
+      Script: {instanceID: 6286}
     - Class: 114
-      Script: {instanceID: 6302}
+      Script: {instanceID: 6310}
     - Class: 114
-      Script: {instanceID: 6364}
+      Script: {instanceID: 6372}
     - Class: 114
-      Script: {instanceID: 6468}
+      Script: {instanceID: 6476}
     - Class: 114
-      Script: {instanceID: 6540}
+      Script: {instanceID: 6548}
     - Class: 114
-      Script: {instanceID: 6838}
+      Script: {instanceID: 6846}
     - Class: 114
-      Script: {instanceID: 8204}
+      Script: {instanceID: 8212}
     - Class: 114
-      Script: {instanceID: 8412}
+      Script: {instanceID: 8420}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -509,6 +518,12 @@ ScriptsOnlyBuild:
     className: UnityOnTriggerEnterMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 068092cba411325bef836bc548fa7a39
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: LatitudeLineManager
+  - hash:
+      serializedVersion: 2
       Hash: 0c6de72eaf8c1070da824268c4bfad9d
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
@@ -555,6 +570,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnBecameVisibleMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: b2c8b38cc1f394bc096d2a760b4dad6b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: RotationImporter
   - hash:
       serializedVersion: 2
       Hash: e987953190eb4c12cf19df790566dc2c
@@ -935,6 +956,12 @@ ScriptsOnlyBuild:
     className: UnityOnPointerClickMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 747c65174864417238f3805f08b2b4a5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Line200Manager
+  - hash:
+      serializedVersion: 2
       Hash: ffaaa6b08bc8a8928411e8e402432358
     assemblyName: Unity.Postprocessing.Runtime
     namespaceName: UnityEngine.Rendering.PostProcessing
@@ -1149,6 +1176,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 0c41731c8fb2f809653dbd3006c7995d
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Line300Manager
   - hash:
       serializedVersion: 2
       Hash: 1ce63d97d1ca25cba2d91d5f32fd5f79
