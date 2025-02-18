@@ -59,14 +59,14 @@ public class PlayerManager : MonoBehaviour
             transform.Rotate(0, -rotationSpeed, 0);
         }
 
-        //右に傾く
+        /*//右に傾く
         if (Input.GetKey(KeyCode.I)) {
             transform.Rotate(0, 0, rotationSpeed);
         }
-        //左を向く
+        //左に傾く
         if (Input.GetKey(KeyCode.Y)) {
             transform.Rotate(0, 0, -rotationSpeed);
-        }
+        }*/
 
 
 

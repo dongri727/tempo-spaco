@@ -9,7 +9,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 8,CE 1789,Storming of the Bastille,France,Paris,48.853333,2.36917,828.1142
 9,4.54B years ago,Earth is born,Solar System,Earth,90,0,-6335.5371
 10,4.51B years ago,Moon is born,Solar System,Moon,90,0,-6332.6578
-11,BCE 2560,Great Pyramid,Egypt,Giza,37.638,21.6305,-346.9681
+11,BCE 2560,Great Pyramid,Egypt,Giza,29.9792,31.1342,-346.9681
 12,BCE 776,the First Olympic,Greece,Olympia,37.638056,21.630556,-137.3331
 13,BCE 1900,Erlitou Site,China,Erlitou,34.693,112.689,-280.6588
 14,CE 79,Mount Vesuvius erupt,Italy,Mount Vesuvius,40.816667,14.433333,15.8775
@@ -18,7 +18,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 17,1.0B years ago,Multicellular,Solar System,Earth,90,0,-5678.482
 18,2.1B years ago,Eukaryote,Solar System,Earth,90,0,-6000.7008
 19,3.8B years ago,Prokaryote,Solar System,Earth,90,0,-6258.2649
-20,3.2B years ago,Cyanobacteria,Solar System,Earth,90,0,-6183.6313
+20,3.5B years ago,Cyanobacteria,Solar System,Earth,90,0,-6183.6313
 21,CE 2001,September 11 attacks - New York,United States,New York,40.4242,-74.0045,1324.5553
 22,CE 1793,Marie Antoinette is guillotined,France,Paris,48.465556,2.321111,834.0908
 23,CE 1991,Mount Unzen pyroclastic flow,Japan,Simabara,32.761389,130.298889,1281.8123
@@ -74,7 +74,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 73,207.0M years ago,Rochechouart impact structure,France,Rochechouart Crater,45.81667,0.78333,-4994.4558
 74,CE 1961,Vostok-1 is launched,Kazakhstan,Baikonur,45.965,63.305,1176.2732
 75,CE 1961,Yuri Gagarin safely landing,Russia,Saratov Oblast,51.7833,46.7333,1176.2732
-76,42.0M years ago,Mungo Man is buried,Australia,Lake Mungo,-33.75,143.0833,-4301.7521
+76,42.0K years ago,Mungo Man is buried,Australia,Lake Mungo,-33.75,143.0833,-1322.9303
 77,CE 1957,Showa Station Landing Ceremony,Antarctica,Ongul Island,-69.0069,39.5837,1163.3955
 78,CE 1488,Europeans arrive the southernmost part of Africa,South Africa,Cape of Good Hope,-34.358,18.4755,534.1998
 79,CE 1991,Apartheid legislation is repealed,South Africa,(whole),-30,25,1281.9639
@@ -129,7 +129,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 128,CE 1981,Independence from the United Kingdom,Belize,Belmopan,17.2514,-88.7669,1244.966
 129,CE 2024,Shohei Otani makes his debut with the Dodgers,South Korea,Seoul,37.4982,126.8673,1436.2782
 130,CE 2024,Koichi Wakata retires from JAXA,Japan,Tokyo,35.6996,139.765,1436.4173
-131,CE 2014,K.Wakata becomes the Commander of the ISS,Solar System,"ISS International Space Station",0,0,1382.9828
+131,CE 2014,K.Wakata becomes the Commander of the ISS,Solar System,ISS,0,0,1382.9828
 132,CE 1960,Independence from France,Benin,Porto-Novo,6.4972,2.605,1174.1129
 133,CE 1907,the first King of Bhutan,Bhutan,Thimphu,24.4667,89.6417,1035.8817
 134,CE 2006,the 65th President of Bolivia,Bolivia,La Paz,-16.5002,-65.1656,1344.0702
@@ -145,7 +145,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 144,CE 1616,W.Shakespeare dies,United Kingdom,Stratford-upon-Avon,52.1928,-1.7064,636.0586
 145,CE 2007,The iPhone is unveiled,United States,San Francisco,37.7667,-22.4333,1348.5047
 146,CE 1985,Studio Ghibli is founded,Japan,Koganei,35.6995,139.503,1258.7829
-147,CE 2010,N.Yamazaki arrives at the ISS,Solar System,"ISS International Space Station",0,0,1363.7704
+147,CE 2010,N.Yamazaki arrives at the ISS,Solar System,ISS,0,0,1363.7704
 148,CE 1786,The first performance of The Marriage of Figaro,Austria,Wien,48.2103,16.3594,823.6719
 149,CE 1962,Independence from Belgium,Burundi,Gitega,3.4333,29.9,1180.0777
 150,CE 1975,Independece from Portugal,Cabo Verde,Praia,14.918,-23.509,1222.9225
@@ -167,7 +167,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 166,CE 679,M7 Earthquake,Japan,Fykuoka,33.6061,130.4181,168.5943
 167,CE 684,Hakuhou Earthquake M8,Japan,Toukai,32.8,134.3,170.4263
 168,CE 1608,Quebec City founded,Canada,Quebec,46.8139,-71.2081,629.1199
-169,CE 1502,Christopher Columbus arrives,Costa Rica,Limón,9.9925,-83.0333,544.6114
+169,CE 1502,C.Columbus arrives Panama,Costa Rica,Limón,9.9925,-83.0333,544.6114
 170,CE 925,Kingdom of Croatia founded,Croatia,Zagreb,45.801,15.9769,251.0813
 171,CE 1527,Joined Habssburg Monarchy,Croatia,Zagreb,45.801,15.9769,562.6091
 172,CE 1918,Secession from Austria-Hungary,Croatia,Zagreb,45.801,15.9769,1061.0435
@@ -251,10 +251,10 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 250,CE 1995,Hubble Deep Field observation starts,Solar System,Hubble Space Telescope,90,0,1300.194
 251,CE 1493,Second sailing of C.Columbus,Spain,Cádiz,36.535,-6.2975,538.1406
 252,CE 1492,C.Columbus sailed for India,Spain,Palos de la Frontera,37.2283,-6.8944,537.3246
-253,CE 1492,Santa María is stricken,North Atlantic Ocean,"off the coast of Cap Haitien Haiti",19.76,-72.2,537.6036
+253,CE 1492,Santa María is stricken,North Atlantic Ocean,off the coast of Cap Haitien,19.76,-72.2,537.6036
 254,BCE 1200,Cape Gelldonya Shipwreck,Turkey,Mediterranean Sea,36.1933,30.4031,-197.1378
 255,CE 1960,Excavation of the Cape Gelidonya Shipwreck Begins,Turkey,Mediterranean Sea,36.1933,30.4031,1172.0474
-256,BCE 70,Antikythera Sipwreck,Greece,Aegean Sea,35.861,23.301,-15.1579
+256,BCE 70,Antikythera Shipwreck,Greece,Aegean Sea,35.861,23.301,-15.1579
 257,CE 1900,Antikythera Shipwreck is found,Greece,Aegean Sea,35.861,23.301,1018.1458
 258,CE 1901,Salvage operation of Antikythera Wreck begins,Greece,Aegean Sea,35.861,23.301,1022.3023
 259,CE 1606,Nossa Senhora dos Mártires sank (Pepper-Wreck),Portugal,Lisbon,38.6606,-9.2989,627.5326
@@ -263,12 +263,12 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 262,CE 2013,The Day the Earth Smiles,Solar System,Saturn,90,0,1379.7686
 263,CE 2004,Cassini Discovers Saturn's Moons Methone and Pallene,Solar System,Saturn,90,0,1337.5638
 264,CE 2004,Cassini Deploys Huygens Towards Titan,Solar System,Saturn,90,0,1339.1735
-265,CE 2005,Huygens Lands on Titan,Solar System,"Titan/ Saturn VI",90,0,1339.4208
+265,CE 2005,Huygens Lands on Titan,Solar System,Titan,90,0,1339.4208
 266,CE 1846,Neptune is found,Solar System,Neptune,90,0,916.223
 267,CE 1846,J.G.Galle discovers Neptune with using a telescope,Germany,Berlin,52.5164,13.3775,916.223
 268,CE 2012,Curiosity soft landing on Mars,Solar System,Mars,90,0,1375.072
 269,CE 2024,Publication in the PNAS reports the discovery of liquid water 10 km beneath Mars' surface,World Wide,(whole),0,0,1438.525
-270,CE 2015,"Paper about ""Carnufex carolinensis"" published",World Wide,(whole),0,0,1388.1257
+270,CE 2015,Paper about "Carnufex carolinensis" published,World Wide,(whole),0,0,1388.1257
 271,230M years ago,Carnufex carolinensis,United States,North Calrolina,35.8189,-78.6447,-5040.2129
 272,CE 2012,Nature Research Center (City of Raleigh) opened,United States,North Calrolina,35.8189,-78.6447,1371.7291
 273,CE 1953,North Sea Flood of 1953,North Atlantic Ocean,North Sea,56.3,3,1151.5058
@@ -278,23 +278,23 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 277,CE 762,Abbasid Caliphate Begins Construction of Baghdad,Iraq,Baghdad,33.3152,44.3661,194.7118
 278,CE 805,Harun al-Rashid Builds Bimaristan,Iraq,Baghdad,33.3152,44.3661,208.8864
 279,CE 969,Fatimid Caliphate Conquers Egypt and Builds Cairo,Egypt,Cairo,30.0444,31.2357,267.641
-280,CE 987,"Ibn al-Nadim compiles ""Kitab al-Fihrist""",Iraq,Baghdad,33.3152,44.3661,274.6018
-281,CE 1258,"""Bayt al-Hikma"" is dissolved",Iraq,Baghdad,33.3152,44.3661,395.7533
+280,CE 987,Ibn al-Nadim compiles "Kitab al-Fihrist",Iraq,Baghdad,33.3152,44.3661,274.6018
+281,CE 1258,"Bayt al-Hikma" is dissolved,Iraq,Baghdad,33.3152,44.3661,395.7533
 282,CE 1259,The Maragheh Observatory is built,Iran,Maragheh,37.3981,46.2092,396.1645
-283,CE 980,"""Cordoba Calendar"" is created",Spain,Córdoba,37.8847,-4.7789,271.8815
-284,CE 987,"""Tabaqat al-Atibba' wa-l-Hukama"" is written",Spain,Córdoba,37.8847,-4.7789,274.6018
-285,CE 1068,"""Kitab Tabaqat al-Umam"" is written",Spain,Toledo,39.8567,-4.0244,307.3841
-286,CE 1490,"""Vitruvian Man"" is drawn",Italy,Milano,45.4624,9.19,535.4194
+283,CE 980,"Cordoba Calendar" is created,Spain,Córdoba,37.8847,-4.7789,271.8815
+284,CE 987,"Tabaqat al-Atibba' wa-l-Hukama" is written,Spain,Córdoba,37.8847,-4.7789,274.6018
+285,CE 1068,"Kitab Tabaqat al-Umam" is written,Spain,Toledo,39.8567,-4.0244,307.3841
+286,CE 1490,"Vitruvian Man" is drawn,Italy,Milano,45.4624,9.19,535.4194
 287,CE 1526,Construction of Casa de Colon&Huerta de Colon begins,Spain,Sevilla,37.3772,-5.9869,561.915
 288,BCE 1629,Abi-Eshuh causes a flood on the Tigris to weaken Isin,Iraq,Babylon,32.5422,44.4214,-250.1998
 289,BCE 650,Enûma Eliš inscribed on clay tablets,Iraq,Nineveh,36.3594,43.1528,-117.985
 290,CE 2024,Nga Wai Hono I Te Po Paki elected as new Māori Queen,New Zealand,Ngāruawāhia,-37.6667,175.15,1438.8824
 291,CE 1783,Lakagigar éruption,Iceland,,64.1462,-21.9424,819.693
 292,CE 2010,Eyjafjallajökull éruption,Iceland,,64.1462,-21.9424,1363.7573
-293,BCE 650,"""Atra-Hasis Epic"" inscribes on clay tablets",Iraq,Nineveh,36.3594,43.1528,-117.985
+293,BCE 650,"Atra-Hasis Epic" inscribes on clay tablets,Iraq,Nineveh,36.3594,43.1528,-117.985
 294,CE 1849,Library of Ashurbanipal is found,Iraq,Nineveh,36.3594,45.1528,919.9771
 295,CE 1972,Discovery of the TAG Hydrothermal Field,North Atlantic Ocean,Mid-Atlantic Ridge,26.08,-44.49,1210.6533
-296,CE 1977,Discovery of the Galapagos Hydrothermal Field,North Pacific Ocean,,0.8,-86.0833,1227.8102
+296,CE 1977,Discovery and documentation of a community of living GiantWhiteClams and,North Pacific Ocean,Galapagos Rift,0.8,-86.0833,1228.5329
 297,CE 1985,Discovery of the Rosebery Hydrothermal Field,Indian Ocean,,-21.1333,73.5,1256.7542
 298,CE 2000,Discovery of the Lost-City Hydrothermal Field,North Atlantic Ocean,Mid-Atlantic Ridge,30.0111,-42.1333,1316.8452
 299,CE 1987,Discovery of the Marina Hydrothermal Field,North Pacific Ocean,Mariana Trough,12.95,143.6167,1264.3019
@@ -305,13 +305,231 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 304,CE 1820,Launch of HMS Beagle,United Kingdom,London,51.4927,0.0596,873.3746
 305,CE 1845,HMS Beagle decommissioned,United Kingdom,,51.5917,0.8075,913.1399
 306,CE 1831,Departure of the Second Voyage of HMS Beagle,United Kingdom,Plymouth,50.3641,-4.1216,891.6652
-307,CE 1832,HMS Beagle calls Cape Verde Islands,Cabo Verde,Praia,14.933,-23.5133,891.8372
+307,CE 1832,Beagle calls Cape Verde Islands,Cabo Verde,Praia,14.933,-23.5133,891.8372
 308,CE 2024,Mass production of metal nanowires,Japan,Nagoya,35.1525,136.9686,1438.4628
-309,CE 1998,自分の誕生,Universe,,90,0,1309.5812
-310,CE 2024,"SHOGUN" won 18 Emmy Awards,United States,Los Angeles,34.05,-118.25,1439.0379
+310,CE 2024,"SHOGUN” won 18 Emmy Awards,United States,Los Angeles,34.05,-118.25,1439.0379
 311,BCE 2300,Enheduanna becomes the High Priestess of the Nanna Temple,Iraq,Ur,30.9639,46.1038,-322.0408
-312,CE 2024,The Juno spacecraft discovers a new giant volcano on Io from an altitude of 2.530 km,Solar System,Io/Jupiter Iddddd,90,0,1435.5525
+312,CE 2024,The Juno spacecraft discovers a new giant volcano on Io from an altitude of 2530 km,Solar System,Io,90,0,1435.5525
 313,CE 415,Hypatia is killed by a mob due to religious conflict,Egypt,Alexandria,31.198,29.9192,94.7043
 314,CE 2024,Research on the Porphyrion black hole jet is publushed,Solar System,Earth,90,0,1439.0846
 315,CE 2020,he sample capsule from Hayabusa2 successfully lands on Earth,Australia,Woomera,-30,134,1418.0731
-316,CE 2010,IKAROS launched,Japan,,30.4,130.97,1364.3462
+316,CE 2010,IKAROS launched,Japan,Kagoshima,30.4,130.97,1364.3462
+317,CE 2014,Hayabusa 2 launched,Japan,Kagoshima,30.4,130.97,1386.6481
+318,CE 2024,2024PT5 found,Solar System,2024PT5,90,0,1438.4473
+319,CE 2024,Annular Solar Eclipse on Easter Island,Chile,Easter Island,-27.1167,-109.3667,1439.318
+320,CE 1492,C.Columbus arrives Guanahani,Bahamas,San Salvador Island,24.0595,-74.4722,537.4612
+321,CE 1492,C.Columbus arrives Cuba,Cuba,Bariay,21.0867,-75.7435,537.4924
+322,CE 1492,C.Columbus arrives Hispaniola,Haiti,,19,-70.0667,537.5665
+323,CE 1493,C.columbus leaves West Indies,Dominican Republic,La Isabela,19.8898,-71.0767,537.6466
+324,CE 1492,C.Columbus calls La Gomera,Spain,La Gomera,28.0915,-17.1114,537.3412
+325,CE 1492,C.Columbus leaves La Gomera,Spain,La Gomera,28.0915,-17.1114,537.389
+326,CE 1493,C.Columbus calls Santa Maria Island,Portugal,Santa Maria Island,36.9667,-25.1167,537.709
+327,CE 1832,Beagle leaves Cape Verde Islands,Cabo Verde,Praia,14.933,-23.5133,891.8681
+328,CE 1832,Beagle calls Salvador,Brazil,Bahia,-12.9714,-38.5014,892.0314
+329,CE 1832,Beagle leaves Salvador,Brazil,Bahia,-12.9714,-38.5014,892.1153
+330,CE 1832,Beagle calls Good Success Bay,Argentina,Tierra del Fuego,-54.7833,-68.3,893.2823
+331,CE 1833,Beagle leaves Good Success Bay,Argentina,Tierra del Fuego,-54.7833,-68.3,893.486
+332,CE 1833,Beagle calls Port Louis,United Kingdom,Falkland Islands,-51.6833,-57.85,893.6587
+333,CE 1833,Beagle leaves Port Louis,United Kingdom,Falkland Islands,-51.6833,-57.85,893.6897
+334,CE 1835,Beagle calls James Island,Ecuador,Galápagos Islands,-0.2167,-90.72,897.7942
+335,4B years ago,the Sea is born,Solar System,Earth,0,0,-6280.5413
+336,CE 1835,Beagle leaves James Island,Ecuador,Galápagos Islands,-0.2167,-90.72,897.9552
+337,CE 1835,Beagle calls Matavai Bay,France,Tahiti,-17.5333,-149.5667,898.0671
+338,CE 1835,Beagle leaves Matavai Bay,France,Tahiti,-17.5333,-149.5667,898.2417
+339,CE 1836,Beagle leaves Bay of Islands,New Zealand,Bay of Islands,-35.2269,174.1227,898.4074
+340,CE 1836,Beagle calls Sydney,Australia,Sydney,-33.8688,151.2093,898.3268
+341,CE 1831,Beagle leaves Devonport,United Kingdom,Plymouth,50.383,-4.183,891.7534
+342,CE 1832,Beagle calls Tenerife,Spain,Canary Islands,28,-15.75,891.7931
+343,CE 1832,Beagle passes by St.Paul Rocks,Brazil,St.Peter & St.Paul Rocks,0.9169,-29.3353,891.974
+344,CE 1832,Beagle stops over Fernando de Noronha,Brazil,Fernando de Noronha,-3.8538,-32.4238,891.9917
+345,CE 2024,Europa Clipper launched,United States,Florida,28.524,-80.6509,1439.5048
+346,CE 2023,The C/2023 A3 comet was first discovered by the Purple Mountain Observatory,China,Zijinshan,32.00649,118.8297,1429.5612
+347,CE 2023,the C/2023 A3 comet is rediscovered independently by the ATLAS telescope,South Africa,Cape Town,-33.9347,18.4776,1430.2313
+348,CE 1832,Beagle calls Rio de Janeiro,Brazil,Rio de Janeiro,-22.9083,-43.1964,892.1903
+349,CE 1832,Beagle leaves Rio de Janeiro,Brazil,Rio de Janeiro,-22.9083,-43.1964,892.5967
+350,CE 1832,Beagle calls Montevideo,Uruguay,Montevideo,-34.8833,-56.1667,892.6895
+351,40K years ago,Homo Sapience lives in Niah Cave,Malaysia,Niah Cave,3.8139,113.7814,-1302.7744
+352,24K years ago,Tabon Man lives in Tabon Caves,Philippines,Quezon,9.2799,117.9814,-1095.1396
+353,70K years ago,Homo lives Kota Tampan,Malaysia,Lenggong,5.1,100.9667,-1536.4229
+354,1.3M years ago,Java Man lives in Sangiran,Indonesia,Sangiran,7.45,110.85,-2793.1258
+355,14K years ago,Homo lives at Kow Swamp,Australia,Kow Swamp,-35.9536,144.3181,-885.3362
+356,40K years ago,Homo lives at Huon,Papua New Guinea,Huon Peninsula,-6.3,147.2,-1302.7744
+357,30K years ago,Homo lives Kosipe,Papua New Guinea,Kosipe,-8.35,147.27,-1185.0008
+358,CE 2022,2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami,Tonga,Hunga Tonga–Hunga Haʻapai,-20.5453,-175.3937,1424.1172
+359,CE 2004,Rosetta Space Probe launched,France,Kourou,5.169,-52.6903,1335.5185
+360,CE 2024,an X-class solar flare has occurred,Solar System,Sun,90,0,1436.9588
+361,CE 2024,an X-class solar flare has occurred,Solar System,Sun,90,0,1436.9897
+362,CE 2024,an X-class solar flare has occurred,Solar System,Sun,90,0,1437.0362
+363,CE 1859,An X-class solar flare has occurred,Solar System,Sun,90,0,938.9065
+364,CE 1856,The first X-class solar flare ever observed,United Kingdom,Redhill,51.2401,-0.1704,933.5411
+365,CE 1770,the aurora was observed and depicted,Japan,Kyoto京都,35.0252,135.7622,802.6276
+366,CE 1492,C.Columbus leaves La Gomera,Spain,La Gomera,28.0915,-27.1114,537.3636
+367,CE 1492,C.Columbus passes Tenerife,Spain,Tenerife,28.3167,-16.5667,537.3656
+368,CE 1492,C.Columbus arrives Gran Canaria,Spain,Gran Canaria,27.9667,-15.6,537.3675
+369,CE 1492,C.Columbus leaves Gran Canaria,Spain,Gran Canaria,27.9667,-15.6,537.3793
+370,CE 1492,C.columbus returns to La Gomera,Spain,La Gomera,28.0915,-27.1114,537.3812
+371,CE 1492,C.Columbus passes El  Hierro,Spain,El Hierro,27.75,-18,537.3949
+372,22K years ago,Minatogawa Man lives in Okinawa,Japan,Okinawa沖縄,26.1289,127.7591,-1060.5177
+373,CE 1968,Monatogawa Man found,Japan,Okinawa沖縄,26.1289,127.7591,1197.7743
+374,19K years ago,Holocene glacial retreat,World Wide,(whole),0,0,-1002.7859
+375,115K years ago,Last Glacial Period,World Wide,(whole),0,0,-1747.042
+376,CE 1833,Beagle leaves Maldonado,Uruguay,Maldonado,-34.9082,-54.9534,894.3016
+377,CE 1833,Beagle arrives Rio Negro Estuary,Argentina,Rio Negro Estuary,-41.0506,-62.8279,894.346
+378,CE 1832,Darwin visits Bahia Blanca,Argentina,Bahia Blanca,-38.7167,-62.2667,892.8752
+379,CE 2009,Shinkai 6500 discovers and collects the white-scaled scaly-foot snail,Indian Ocean,Central Indian Ridge,-12,66,1361.6438
+380,CE 1977,the World's First capture of a living GiantWhiteClam,South Pacific Ocean,Galapagos Rift,-0.794,-86.157,1228.5568
+381,CE 420,Homo lives in Antsiranana,Madagascar,Antsiranana,-12.3,49.2833,95.93
+382,CE 800,Austronesian language family expands to Madagascar,Madagascar,Nosy Mangabe,-15.4997,49.7625,207.2143
+383,CE 1667,The Netherlands acquires Run Island,Indonesia,Run Island,-4.5419,129.6963,684.6147
+384,CE 2010,"Monsoon: The Indian Ocean and the Future of American Power" is published,United States,New York,40.7128,-74.0061,1366.3282
+385,CE 2011,Seafloor survey of the epicentral region of the 2011 Tohoku Earthquake,North Pacific Ocean,Japan Trench,38.1,143.9,1370.1734
+386,CE 1832,Beagle leaves Bahia Blanca,Argentina,Bahia Blanca,-38.7167,-62.2667,893.0566
+387,CE 1832,Beagle returns Montevideo,Uruguay,Montevideo,-34.8833,-56.1667,893.123
+388,CE 1832,Beagle leaves Montevideo,Uruguay,Montevideo,-34.8833,-56.1667,893.2292
+389,CE 1833,Beagle leaves Falkland Islands,United Kingdom,Falkland Islands,-51.6833,-57.85,893.8182
+390,CE 1833,Beagle calls Puerto Deseado,Argentina,Puerto Deseado,-47.75,-65.9167,894.9765
+391,CE 1834,Beagle leaves Puerto Deseado,Argentina,Puerto Deseado,-47.75,-65.9167,895.0254
+392,CE 1834,Beagle calls Port St. Julian,Argentina,Puerto San Julian,-49.3,-67.7167,895.0477
+393,CE 1834,Beagle leaves Port St. Julian,Argentina,Puerto San Julian,-49.3,-67.7167,895.0921
+394,CE 1834,Beagle calls Isla de Chiloe,Chile,Isla de Chiloe,-42.6767,-73.9933,895.8128
+395,CE 1834,Beagle leaves Isla de Chiloe,Chile,Isla de Chiloe,-42.6767,-73.9933,895.8796
+396,CE 1834,Beagle revisits Isla de Chiloe,Chile,Isla de Chiloe,-42.6767,-73.9933,896.4589
+397,CE 1835,Beagle leaves Isla de Chiloe,Chile,Isla de Chiloe,-42.6767,-73.9933,896.7934
+398,CE 1834,Beagle calls Puerto Santa Cruz,Argentina,Puerto Santa Cruz,-50.0259,-68.5388,895.4745
+399,CE 1834,Beagle leaves Puerto Santa Cruz,Argentina,Puerto Santa Cruz,-50.0259,-68.5388,895.6036
+400,CE 1834,Beagle calls Valparaiso,Chile,Valparaiso,-33.05,-71.6167,895.9598
+401,CE 1834,Beagle leaves Valparaiso,Chile,Valparaiso,-33.05,-71.6167,896.4098
+402,CE 1835,Beagle revisits Valparaiso,Chile,Valparaiso,-33.05,-71.6167,896.8113
+403,CE 1493,C.Columbus arrives Gran Canaria,Spain,Gran Canaria,27.9667,-15.6,538.1563
+404,CE 1493,C.Columbus arrives La Gomera,Spain,La Gomera,28.0915,-27.1114,538.1621
+405,CE 1493,C.Columbus leaves LaGomera,Spain,La Gomera,28.0915,-27.1114,538.166
+406,CE 1493,C.Columbus finds Dominica Island,Dominica,,19.1493,-61.37,538.2169
+407,CE 1493,C.Columbus lands Marie-Galante,France,Guadeloupe,15.9333,-61.2667,538.2169
+408,CE 2012,NHK films Giant Squid Swimming,North Pacific Ocean,off the Ogasawara Islands,27.0942,142.1919,1374.5756
+409,CE 1835,HMS Beagle leaves Valdivia,Chile,Valdivia,-39.8319,-73.2458,896.8738
+410,CE 1835,HMS Beagle calls Concepcion,Chile,Concepcion,-36.8333,-73.05,896.9273
+411,CE 1835,HMS Beagle leaves Concepcion,Chile,Concepcion,-36.8333,-73.05,896.9407
+412,CE 1835,HMS Beagle calls Valparaiso,Chile,Valparaiso,-33.05,-71.6167,896.9586
+413,CE 1947,Kon-Tiki Expedition starts,Peru,Callao,-12.67,-77.15,1134.9238
+414,CE 1947,Kon-Tiki Raft strikes a reef,France,Raroia Atoll,-16.037,-142.422,1135.7044
+415,CE 1876,Hōkūleʻa leaves Honolua Bay,United States,Honolua Bay,20.9967,-156.653,969.9856
+416,CE 1976,Hōkūleʻa arrives Society Islands,France,Tahiti,-17.6333,-149.45,1226.1018
+417,BCE 480,Battle of Salamis,Non-Oceanic Areas,Strait of Salamis,37.9333,23.5,-90.1477
+418,BCE 2450,Battle of the Vultures,Iraq,Tello,31.5889,46.1758,-336.596
+419,CE 1877,Stele of the Vultures is found,Iraq,Tello,31.5889,46.1758,971.112
+420,CE 1571,Battle of Lepanto,Non-Oceanic Areas,Gulf of Corinth,38.2,22.5,597.8749
+421,CE 1805,Battle of Trafalgar,North Atlantic Ocean,Strait of Gibraltar,36.1833,-6.0333,851.4154
+422,CE 1987,Amoco Cadiz runs aground,North Atlantic Ocean,Portsall Rocks,48.5411,-4.6561,1265.4163
+423,CE 1978,Amoco Cadiz sinks,North Atlantic Ocean,Portsall Rocks,48.5411,-4.6561,1232.4346
+424,CE 2000,Kairei Vent Field is found,Indian Ocean,Central Indian Ridge,-25.3194,70.04,1319.719
+425,CE 2001,Scaly-Foot is found,Indian Ocean,Central Indian Ridge,-25.3207,70.0405,1321.1631
+426,CE 2000,search of the Iheya Field,North Pacific Ocean,Okinawa Trough,27.0397,127.9686,1318.9988
+427,CE 2000,search of the Suiyo Seamount,North Pacific Ocean,off the Ogasawara Islands,28.6,140.6333,1320.7957
+428,CE 2001,Search of Dai-Yon Yonaguni Knoll,North Pacific Ocean,Okinawa Trough,24.8489,122.7002,1322.969
+429,CE 2001,Search of the Harima Knoll,North Pacific Ocean,Okinawa Trough,24.858,123.8415,1322.969
+430,BCE 5700,Paddy Fields are created,China,Kuahuqiao 跨湖橋,30.1441,120.2183,-570.6361
+431,BCE 1922,Yellow River Flood and Dayu's Rule of Water,China,Lajia 喇家,35.8278,102.8542,-283.0403
+432,CE 1999,Escavation of LajiaSite,China,Lajia 喇家,35.8278,102.8542,1312.5699
+433,CE 861,Nilometer is installed,Egypt,Cairo,30.0208,31.2256,228.0685
+434,35K years ago,Homo lives at Tachikiri,Japan,Tanegashima 種子島,30.5553,130.9647,-1247.8677
+435,35K years ago,Homo lives at Yokomine,Japan,Tanegashima 種子島,30.4433,130.8736,-1247.8677
+436,30K years ago,Homo lives TsuchihamaYaYa,Japan,Amami-Oshima 奄美大島,28.4138,129.6722,-1185.0008
+437,30K years ago,Homo lives Kishigou,Japan,Amami-Oshima 奄美大島,28.4635,129.7154,-1185.0008
+438,30K years ago,Homo lives Garazao,Japan,Tokunoshima 徳之島,27.7421,128.912,-1185.0008
+439,36.5K years ago,Homo lives Yamashita First Cave,Japan,Okinawa沖縄,26.2008,127.6728,-1265.0806
+440,35K years ago,Homo lives SkitariDo,Japan,Okinawa沖縄,26.1452,127.7473,-1247.8677
+441,21K years ago,Homo lives in Takigawa,Japan,Okinawa沖縄,26.13,127.7616,-1042.1135
+442,30K years ago,Homo lives in Pinzaabu,Japan,Miyakozima 宮古島,24.7488,125.3444,-1185.0008
+443,27.5K years ago,Homo lives Shirahosaonetabaru Cave,Japan,Ishigaki Island,24.4246,124.2516,-1149.7887
+444,CE 2016,KoukaiProject is officially launched,Japan,Tokyo東京,35.7191,139.7767,1393.4002
+445,CE 2016,2 Boats of Typha leave Yonaguni for Iriomote,Japan,Yonaguni,24.4375,122.971,1394.7886
+446,CE 2016,2 Boats of Typha abandon the voyage,North Pacific Ocean,East China Sea,24.5202,123.2406,1394.7886
+447,CE 2017,Bambou Boat Ira1st leaves Dawu for  Lvdao,Taiwan,Dawu 大武,22.3425,120.8996,1399.5625
+448,CE 2017,Bambou Boat Ira 1st abandons the voyage,North Pacific Ocean,Philippine Sea,22.6648,121.4001,1399.5625
+449,CE 2019,Dugout Canoe SugiMe (Goddess of Cedar)leaves Wushibi for Yonaguni,Taiwan,Wushibi 烏石鼻,24.4721,121.8381,1410.4632
+450,CE 2019,Dugout Canoe SugiMe arrives Nahma beach,Japan,Yonaguni,24.4481,122.9399,1410.4924
+451,CE 1850,Installation of submarine cables between Dover and Calais,United Kingdom,Dover,51.1275,1.3122,922.9908
+452,CE 1850,Installation of submarine cables between Calais and Dover,France,Calais,50.9481,1.8564,922.9908
+453,CE 1851,Re-laying of the Dover-Calais submarine cable,United Kingdom,Dover,51.1275,1.3122,925.0909
+454,CE 1851,Re-laying of the Calais-Dover submarine cable,France,Calais,50.9481,1.8564,925.0909
+455,CE 1853,Installation of submarine cables between Holyhead and Hawth,United Kingdom,Holyhead,53.3101,-4.6304,926.9237
+456,CE 1853,Installation of submarine cables between Hawth and Holyhead,Ireland,Howth,53.3859,-6.0711,926.9237
+457,CE 1858,Installation of Transatlantic Telegraph Cable,United Kingdom,Valentina Island,51.9167,-10.2833,936.9834
+458,CE 1858,Installation of ransatlantic Telegraph Cable,United States,Trinity Bay,48.0708,-53.6745,936.9834
+459,5.5M years ago,Ardipithecus Kadabba,Ethiopia,Middle Awash,10.3,40.5,-3419.0097
+460,4.4M years ago,Ardipithecus Ramidus,Ethiopia,Middle Awash,10.3,40.5,-3322.1411
+461,CE 1997,Ardipithecus Kadabba is found,Ethiopia,Middle Awash,10.3,40.5,1308.5204
+462,CE 2001,Article "Late Miocene hominids from the Middle Awash Ethiopia",World Wide,,0,0,1323.839
+463,3.18M years ago,"Lucy" lives,Ethiopia,Hadar,11.1989,40.5652,-3181.1951
+464,CE 1974,"Lucy" is found,Ethiopia,Hadar,11.1989,40.5652,1220.8001
+465,CE 1992,a hominin tooth that differs from known species is found,Ethiopia,Middle Awash,10.3,40.5,1287.9524
+466,CE 1994,"Ardi" is found,Ethiopia,Middle Awash,10.3,40.5,1295.5307
+467,4.4M years ago,"Ardi" lives,Ethiopia,Middle Awash,10.3,40.5,-3322.1411
+468,CE 2009,Aticles about "Ardi",World Wide,(whole),0,0,1361.3186
+469,1.6M years ago,"Turkana Boy" lives,Kenya,Nariokotome,4.1,35.8833,-2883.171
+470,CE 1984,"Turkana Boy" is found,Kenya,Nariokotome,4.1,35.8833,1253.0289
+471,1.8M years ago,Homo Erectus Georgicus,Georgia,Domanisi,41.3317,44.2036,-2934.2602
+472,CE 1991,Dmanisi hominins found,Georgia,Domanisi,41.3322,44.2044,1279.8027
+473,CE 1579,"Theatrum Orbis Terrarum" published,Belgium,Antwerp,51.2167,4.4,603.7802
+474,CE 1914,Endurance leaves Plymouth,United Kingdom,Plymouth,50.3714,-4.1422,1051.8465
+475,CE 1914,Endurance leaves Grytviken,United Kingdom,South Georgia Island,-54.2814,-36.5081,1051.8465
+476,CE 1915,Endurance passes Coats Land,Southern Ocean,,-77,-27.5,1052.0698
+477,CE 1915,Endurance passes Caird Coast,Southern Ocean,,-76,-24,1052.0825
+478,CE 1915,Endurance unnavigable due to sea ice blockage,Southern Ocean,,-78,-37,1052.1144
+479,CE 1915,Endurance damaged due to sea ice,Southern Ocean,Weddell Sea,-71,-51,1053.9177
+480,CE 1915,Endurance collapses and abandoned,Southern Ocean,Weddell Sea,-71,-51,1053.9369
+481,CE 1915,Endurance sinking,Southern Ocean,Weddell Sea,-69,-51.5,1054.1163
+482,CE 1916,Schackleton's Corps pass 67S-52W,Southern Ocean,Weddell Sea,-67,-52,1054.36
+483,CE 1916,Schackleton's Corps escap in three lifeboats,Southern Ocean,Weddell Sea,-63,-53,1054.9955
+484,CE 1916,Schackleton's Corps arrive Elephant Island,Antarctica,Elephant Island,-61.1333,-55.1167,1055.034
+485,CE 1916,Schackleton +5 leave Elephant Island in James Caird,Antarctica,Elephant Island,-61.1333,-55.1167,1055.0919
+486,CE 1916,James Caird arrives King Haakon Bay,United Kingdom,South Georgia Island,-54.1604,-37.3347,1055.1947
+487,CE 1916,Schackleton +2 leaves King Haakon Bay,United Kingdom,South Georgia Island,-54.1604,-37.3347,1055.2461
+488,CE 1916,Schackleton +2 cross the mountain range to Stromness,United Kingdom,Stromness,-54.16,-36.7116,1055.2589
+489,CE 1916,Scahcleton's 3 members rescued from King Haakon Bay,United Kingdom,South Georgia Island,-54.1604,-37.3347,1055.2654
+490,CE 1916,All of Schackleton's Corps rescued from Elephant Island,Antarctica,Elephant Island,-61.1333,-55.1167,1055.915
+491,CE 2022,Endurance found 3008m under the sea,Southern Ocean,Weddell Sea,-68.339,-52.994,1424.8843
+492,BCE 60,"De rerum natura" (On the Nature of Things),Italy,Rome,41.8931,12.4828,-13.1529
+493,CE 1417,rediscovery of "De natura rerum",Germany,Fulda,50.5508,9.6753,486.4628
+494,CE 1913,"LES ATOMES" published,France,Paris,48.8566,2.3522,1047.1718
+495,CE 1897,Discovery of the Electron,United Kingdom,Cambridge,52.2031,0.12,1011.7143
+496,CE 1899,Alpha particle discovered,Canada,Montreal,45.5089,-73.5542,1015.9914
+497,CE 1900,Gamma ray (a high-energy photon) discovered,France,Paris,48.8567,2.3522,1018.1458
+498,CE 1911,Atomic nucleus identified,Canada,Montreal,45.5089,-73.5542,1042.578
+499,CE 1919,Proton discovered,Canada,Montreal,45.5089,-73.5542,1061.252
+500,CE 1920,Druteron predicted,Canada,Montreal,45.5089,-73.5542,1063.6437
+501,CE 1931,Deuteron discovered,United States,New York,40.8075,-73.9619,1090.8606
+502,CE 1920,Neutron predicted,Canada,Montreal,45.5089,-73.5542,1065.0483
+503,CE 1932,Neutron discovered,United Kingdom,Cambridge,52.2031,-0.12,1094.0361
+504,CE 2000,Tau neutrino first observed directly,United States,Winfield,41.8319,-88.2572,1319.5891
+505,CE 2000,Quark-gluon fireball discovered,Switzerland,Geneva,46.2342,6.0528,1317.6795
+506,CE 1996,Tsukuba Meteorite falls,Japan,Tsukuba つくば,36.0847,140.0764,1300.4087
+507,CE 1898,Takahe declared extinct,New Zealand,South Island,-43.9833,170.45,1013.8476
+508,CE 1948,Takahe rediscovered,New Zealand,Lake Te Anau,-45.4169,167.7181,1139.3554
+509,CE 1948,Takahe listed as Critically Endangered in IUCN Red List,Switzerland,Gland,46.42,6.27,1139.4412
+510,CE 1949,Takahe Reserve established,New Zealand,Murchison Mountains,-45.2752,167.5366,1139.4412
+511,CE 2008,Takahe downgraded to Vulnerable in IUCN Red List,Switzerland,Gland,46.42,6.27,1352.6534
+512,CE 1991,Takahe translocated to Tiritiri Matangi/predator-free offshore island,New Zealand,Tiritiri Matangi Island,-36.6,174.89,1279.8027
+513,CE 1996,Takahe translocated to Mount Bruce National wildlife centres,New Zealand,Mount Bruce,-40.7211,175.6399,1299.9907
+514,CE 2006,Takahē relocated to the Maungatautari Restoration Project,New Zealand,Mountain Maungatautari,-38.0333,175.5667,1345.7106
+515,CE 2010,Takahē released at Willowbank Wildlife Reserve,New Zealand,Christchurch,-43.4628,172.5942,1365.6709
+516,CE 2018,Dying Gondola whale found,Thailand,Songkhla,7.1975,100.595,1404.5906
+517,CE 2018,Gondoh whale dies,Thailand,Songkhla,7.1975,100.595,1404.6481
+518,CE 2018,80 plastic bags in stomach of dissected Gondoh whale,Thailand,Songkhla,7.1975,100.595,1404.6624
+519,CE 1914,Saffragette Doctors depart London Victoria Station,United Kingdom,London,51.4952,-0.1441,1051.3239
+520,CE 1914,Suffragette Doctors arrive at Gare Saint-Lazare in Paris,France,Paris,48.8751,2.3266,1051.3239
+521,CE 1914,Suffragette Doctors establishe a hospital at Hôtel Claridge,France,Paris,48.8687,2.3037,1051.3366
+522,CE 1646,"Pyramidographia or a Description of the Pyramids in Ægypt" published,United Kingdom,England,51.5078,-0.1281,663.4293
+523,CE 2018,WSP scans the Great Pyramid of Giza using drone,Egypt,Giza,29.9792,31.1342,1406.65
+524,CE 2024,Article "Supernovae evidence for foundational change to cosmological models" published,World Wide,WebSite,0,0,1440.5336
+525,CE 1545,"Artis Magnæ Sive de Regulis Algebraicis Liber Unus" published,Italy,Milano,45.4669,9.19,576.3801
+526,CE 1572,"L'ALGEBRA" published,Italy,Bologna,44.4939,11.3428,597.996
+527,CE 1637,"Discours de la méthode" published,Netherlands,Leiden,52.16,4.49,654.9242
+528,CE 1748,"Introductio in analysin infinitorum" published,Germany,Berlin,52.5164,13.3775,773.6434
+529,CE 1797,"On the Analytical Representation of Direction" published,Denmark,Copenhagen,55.6797,12.5725,838.5282
+530,CE 1801,"Disquisitiones Arithmeticae" published,Germany,Helmstedt,52.2292,11.0086,844.279
+531,CE 1980,"Mandelbrot Set" visualised for the first time,United States,Yorktown Heights,41.2102,-73.803,1239.342
+532,BCE 7500,Çatalhöyük,Turkey,Konya,37.6675,32.8283,-660.8014
+533,CE 1958,Çatalhöyük found,Turkey,Konya,37.6675,32.8283,1165.934
+534,12K years ago,Cave Painting at Tassili n'Ajjer,Algeria,Tassili n'Ajjer,25.5,9,-827.7336
+535,CE 1982,Tassili n'Ajjer inscribed on the World Heritage List (composite heritage).,Algeria,Tassili n'Ajjer,25.5,9,1245.6729
