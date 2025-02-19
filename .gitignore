@@ -64,3 +64,40 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# ========== Unity-generated folders (不要ファイル) ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# ========== Visual Studio / VSCode files ==========
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# ========== Packages folder (except manifest.json) ==========
+[Pp]ackages/*
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# ========== Crash reports and log files ==========
+*.stacktrace
+
+# ========== Other (auto-generated) ==========
+*.apk
+*.symbols.zip
+*.aar
+*.so
+*.tmp
