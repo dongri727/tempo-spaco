@@ -1,39 +1,39 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerManager : MonoBehaviour
 {
     private Rigidbody rb;
-    private float moveSpeed = 10f;
-    private float rotationSpeed = 1f;
 
-    // Start is called before the first frame update
+    [Header("移動・回転設定")]
+    public float moveSpeed = 10f;                // WASDでの水平移動速度
+    public float rotationSpeed = 1f;   // マウスXでの左右回転速度
+    
+
     void Start()
     {
-       rb = GetComponent<Rigidbody>(); 
+        rb = GetComponent<Rigidbody>();
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
-        //player移動の処理
-        //前に進む
-        if (Input.GetKey(KeyCode.E)) {
+        // --- WASDで水平移動 ---
+        if (Input.GetKey(KeyCode.W))
+        {
             rb.AddForce(transform.forward * moveSpeed);
         }
-        //後ろに進む
-        if (Input.GetKey(KeyCode.T)) {
+        if (Input.GetKey(KeyCode.S))
+        {
             rb.AddForce(-transform.forward * moveSpeed);
         }
-        //右に進む
-        if (Input.GetKey(KeyCode.G)) {
+        if (Input.GetKey(KeyCode.D))
+        {
             rb.AddForce(transform.right * moveSpeed);
         }
-        //左に進む
-        if (Input.GetKey(KeyCode.D)) {
+        if (Input.GetKey(KeyCode.A))
+        {
             rb.AddForce(-transform.right * moveSpeed);
         }
+
         //上に進む
         if (Input.GetKey(KeyCode.R)) {
             rb.AddForce(transform.up * moveSpeed);
@@ -42,7 +42,8 @@ public class PlayerManager : MonoBehaviour
         if (Input.GetKey(KeyCode.F)) {
             rb.AddForce(-transform.up * moveSpeed);
         }
-        //上を向く
+
+                //上を向く
         if (Input.GetKey(KeyCode.U)) {
             transform.Rotate(-rotationSpeed, 0, 0);
         }
@@ -58,44 +59,37 @@ public class PlayerManager : MonoBehaviour
         if (Input.GetKey(KeyCode.H)) {
             transform.Rotate(0, -rotationSpeed, 0);
         }
+        
 
-        /*//右に傾く
-        if (Input.GetKey(KeyCode.I)) {
-            transform.Rotate(0, 0, rotationSpeed);
-        }
-        //左に傾く
-        if (Input.GetKey(KeyCode.Y)) {
-            transform.Rotate(0, 0, -rotationSpeed);
-        }*/
-
-
-
-
+/*         // --- マウスY入力で上下移動 ---
+        // ※Input.GetAxis("Mouse Y")は通常、上方向に動かすと正の値となるため
+        // 上昇/下降の感覚に合わせて符号を反転させる場合は「-Input.GetAxis("Mouse Y")」に変更してください
+        float mouseWheelScroll = Input.GetAxis("Mouse ScrollWheel");
+        rb.AddForce(transform.up * mouseWheelScroll * verticalMoveSpeed); */
     }
 
-    private void Update()
+    void Update()
     {
+/*         // --- マウスX入力で左右回転 ---
+        float mouseX = Input.GetAxis("Mouse X");
+        transform.Rotate(0, mouseX * horizontalRotationSpeed, 0);
 
+        // 回転や移動をリセットする例（Nキー押下時）
         if (Input.GetKeyDown(KeyCode.N))
         {
-            //ResetRotation();
             rb.angularVelocity = Vector3.zero;
-        }
-        if (Input.GetKeyUp(KeyCode.E) ||
-            Input.GetKeyUp(KeyCode.R) ||
-            Input.GetKeyUp(KeyCode.T) ||
+            transform.rotation = Quaternion.identity;
+        } */
+
+        // WASDのキーを離した際に慣性をリセットする例
+        if (Input.GetKeyUp(KeyCode.W) ||
+            Input.GetKeyUp(KeyCode.S) ||
+            Input.GetKeyUp(KeyCode.A) ||
             Input.GetKeyUp(KeyCode.D) ||
-            Input.GetKeyUp(KeyCode.F) ||
-            Input.GetKeyUp(KeyCode.G))
+            Input.GetKeyUp(KeyCode.R) ||
+            Input.GetKeyUp(KeyCode.F))
         {
             rb.linearVelocity = Vector3.zero;
-            
         }
-    }
-
-    void ResetRotation()
-    {
-        // プレイヤーの回転をリセット
-        transform.rotation = Quaternion.identity;
     }
 }
