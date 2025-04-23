@@ -369,8 +369,8 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 369,CE 1492,C.Columbus leaves Gran Canaria,Spain,Gran Canaria,27.9667,-15.6,537.3793
 370,CE 1492,C.columbus returns to La Gomera,Spain,La Gomera,28.0915,-27.1114,537.3812
 371,CE 1492,C.Columbus passes El  Hierro,Spain,El Hierro,27.75,-18,537.3949
-372,22K years ago,Minatogawa Man lives in Okinawa,Japan,Okinawa沖縄,26.1289,127.7591,-1060.5177
-373,CE 1968,Monatogawa Man found,Japan,Okinawa沖縄,26.1289,127.7591,1197.7743
+372,22K years ago,Minatogawa Man lives in Okinawa,Japan,Okinawa,26.1289,127.7591,-1060.5177
+373,CE 1968,Monatogawa Man found,Japan,Okinawa,26.1289,127.7591,1197.7743
 374,19K years ago,Holocene glacial retreat,World Wide,(whole),0,0,-1002.7859
 375,115K years ago,Last Glacial Period,World Wide,(whole),0,0,-1747.042
 376,CE 1833,Beagle leaves Maldonado,Uruguay,Maldonado,-34.9082,-54.9534,894.3016
@@ -427,26 +427,26 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 427,CE 2000,search of the Suiyo Seamount,North Pacific Ocean,off the Ogasawara Islands,28.6,140.6333,1320.7957
 428,CE 2001,Search of Dai-Yon Yonaguni Knoll,North Pacific Ocean,Okinawa Trough,24.8489,122.7002,1322.969
 429,CE 2001,Search of the Harima Knoll,North Pacific Ocean,Okinawa Trough,24.858,123.8415,1322.969
-430,BCE 5700,Paddy Fields are created,China,Kuahuqiao 跨湖橋,30.1441,120.2183,-570.6361
-431,BCE 1922,Yellow River Flood and Dayu's Rule of Water,China,Lajia 喇家,35.8278,102.8542,-283.0403
-432,CE 1999,Escavation of LajiaSite,China,Lajia 喇家,35.8278,102.8542,1312.5699
+430,BCE 5700,Paddy Fields are created,China,Kuahuqiao,30.1441,120.2183,-570.6361
+431,BCE 1922,Yellow River Flood and Dayu's Rule of Water,China,Lajia,35.8278,102.8542,-283.0403
+432,CE 1999,Escavation of LajiaSite,China,Lajia,35.8278,102.8542,1312.5699
 433,CE 861,Nilometer is installed,Egypt,Cairo,30.0208,31.2256,228.0685
-434,35K years ago,Homo lives at Tachikiri,Japan,Tanegashima 種子島,30.5553,130.9647,-1247.8677
-435,35K years ago,Homo lives at Yokomine,Japan,Tanegashima 種子島,30.4433,130.8736,-1247.8677
-436,30K years ago,Homo lives TsuchihamaYaYa,Japan,Amami-Oshima 奄美大島,28.4138,129.6722,-1185.0008
-437,30K years ago,Homo lives Kishigou,Japan,Amami-Oshima 奄美大島,28.4635,129.7154,-1185.0008
-438,30K years ago,Homo lives Garazao,Japan,Tokunoshima 徳之島,27.7421,128.912,-1185.0008
-439,36.5K years ago,Homo lives Yamashita First Cave,Japan,Okinawa沖縄,26.2008,127.6728,-1265.0806
-440,35K years ago,Homo lives SkitariDo,Japan,Okinawa沖縄,26.1452,127.7473,-1247.8677
-441,21K years ago,Homo lives in Takigawa,Japan,Okinawa沖縄,26.13,127.7616,-1042.1135
-442,30K years ago,Homo lives in Pinzaabu,Japan,Miyakozima 宮古島,24.7488,125.3444,-1185.0008
+434,35K years ago,Homo lives at Tachikiri,Japan,Tanegashima,30.5553,130.9647,-1247.8677
+435,35K years ago,Homo lives at Yokomine,Japan,Tanegashima,30.4433,130.8736,-1247.8677
+436,30K years ago,Homo lives TsuchihamaYaYa,Japan,Amami-Oshima,28.4138,129.6722,-1185.0008
+437,30K years ago,Homo lives Kishigou,Japan,Amami-Oshima,28.4635,129.7154,-1185.0008
+438,30K years ago,Homo lives Garazao,Japan,Tokunoshima,27.7421,128.912,-1185.0008
+439,36.5K years ago,Homo lives Yamashita First Cave,Japan,Okinawa,26.2008,127.6728,-1265.0806
+440,35K years ago,Homo lives SkitariDo,Japan,Okinawa,26.1452,127.7473,-1247.8677
+441,21K years ago,Homo lives in Takigawa,Japan,Okinawa,26.13,127.7616,-1042.1135
+442,30K years ago,Homo lives in Pinzaabu,Japan,Miyakozima,24.7488,125.3444,-1185.0008
 443,27.5K years ago,Homo lives Shirahosaonetabaru Cave,Japan,Ishigaki Island,24.4246,124.2516,-1149.7887
-444,CE 2016,KoukaiProject is officially launched,Japan,Tokyo東京,35.7191,139.7767,1393.4002
+444,CE 2016,KoukaiProject is officially launched,Japan,Tokyo,35.7191,139.7767,1393.4002
 445,CE 2016,2 Boats of Typha leave Yonaguni for Iriomote,Japan,Yonaguni,24.4375,122.971,1394.7886
 446,CE 2016,2 Boats of Typha abandon the voyage,North Pacific Ocean,East China Sea,24.5202,123.2406,1394.7886
-447,CE 2017,Bambou Boat Ira1st leaves Dawu for  Lvdao,Taiwan,Dawu 大武,22.3425,120.8996,1399.5625
+447,CE 2017,Bambou Boat Ira1st leaves Dawu for  Lvdao,Taiwan,Dawu,22.3425,120.8996,1399.5625
 448,CE 2017,Bambou Boat Ira 1st abandons the voyage,North Pacific Ocean,Philippine Sea,22.6648,121.4001,1399.5625
-449,CE 2019,Dugout Canoe SugiMe (Goddess of Cedar)leaves Wushibi for Yonaguni,Taiwan,Wushibi 烏石鼻,24.4721,121.8381,1410.4632
+449,CE 2019,Dugout Canoe SugiMe (Goddess of Cedar)leaves Wushibi for Yonaguni,Taiwan,Wushibi,24.4721,121.8381,1410.4632
 450,CE 2019,Dugout Canoe SugiMe arrives Nahma beach,Japan,Yonaguni,24.4481,122.9399,1410.4924
 451,CE 1850,Installation of submarine cables between Dover and Calais,United Kingdom,Dover,51.1275,1.3122,922.9908
 452,CE 1850,Installation of submarine cables between Calais and Dover,France,Calais,50.9481,1.8564,922.9908
@@ -503,7 +503,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 503,CE 1932,Neutron discovered,United Kingdom,Cambridge,52.2031,-0.12,1094.0361
 504,CE 2000,Tau neutrino first observed directly,United States,Winfield,41.8319,-88.2572,1319.5891
 505,CE 2000,Quark-gluon fireball discovered,Switzerland,Geneva,46.2342,6.0528,1317.6795
-506,CE 1996,Tsukuba Meteorite falls,Japan,Tsukuba つくば,36.0847,140.0764,1300.4087
+506,CE 1996,Tsukuba Meteorite falls,Japan,Tsukuba,36.0847,140.0764,1300.4087
 507,CE 1898,Takahe declared extinct,New Zealand,South Island,-43.9833,170.45,1013.8476
 508,CE 1948,Takahe rediscovered,New Zealand,Lake Te Anau,-45.4169,167.7181,1139.3554
 509,CE 1948,Takahe listed as Critically Endangered in IUCN Red List,Switzerland,Gland,46.42,6.27,1139.4412
@@ -533,3 +533,91 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 533,CE 1958,Çatalhöyük found,Turkey,Konya,37.6675,32.8283,1165.934
 534,12K years ago,Cave Painting at Tassili n'Ajjer,Algeria,Tassili n'Ajjer,25.5,9,-827.7336
 535,CE 1982,Tassili n'Ajjer inscribed on the World Heritage List (composite heritage).,Algeria,Tassili n'Ajjer,25.5,9,1245.6729
+536,BCE 9500,Karahan Tepe,Turkey,Şanlıurfa Province,37.0925, 39.3036,-742.9797
+537,BCE 10000,Göbekli Tepe,Turkey,Şanlıurfa Province,37.2231,38.9253,-794.6792
+538,CE 1997,Karahan Tepe is found,Turkey,Şanlıurfa Province,37.0925, 39.3036,1304.1434
+539,CE 1963,Göbekli Tepe firest documented,Turkey,Istanbul,41.0136,28.955,1181.3819
+540,CE 1994,Göbekli Tepe Escavation bigins,Turkey,Şanlıurfa Province,37.2231,38.9253,1291.8026
+541,CE 1835,HMS Beagle leaves Copiapo,Chile,Copiapo,-27.3664,-70.3331,897.4812
+542,CE 1835,HMS Beagle calls Iquique,Chile,Iquique,-20.2167,-70.15,897.508
+543,CE 1835,HMS Beagle leaves Iquique,Chile,Iquique,-20.2167,-70.15,897.5214
+544,CE 1835,HMS Beagle calls Callao,Peru,Callao,-12.0522,-77.1392,897.5393
+545,CE 1836,HMS Beagle calls Keeling Islands,Australia,Cocos(Keeling)Islands,-12.1175,96.895,898.6942
+546,CE 1836,HMS Beagle leaves Keeling Islands,Australia,Cocos(Keeling)Islands,-12.1175,96.895,898.739
+547,CE 1836,HMS Beagle calls Port Louis,Mauritius,Port Louis,-20.2,57.5,898.8152
+548,CE 1836,HMS Beagle calls Cape of Good Hope,South Africa,Cape of Good Hope,-34.3581,18.4756,898.9587
+549,CE 1836,HMS Beagle leaves Cape of Good Hope,South Africa,Cape of Good Hope,-34.3581,18.4756,899.0394
+550,CE 1836,HMS Beagle calls Saint Helena,United Kingdom,Saint Helena,-15.9667,-5.7,899.1246
+551,CE 1836,HMS Beagle leaves Saint Helena,United Kingdom,Saint Helena,-15.9667,-5.7,899.156
+552,CE 1836,HMS Beagle calls Ascension Island,United Kingdom,Ascension Island,-7.9333,-14.3667,899.1785
+553,CE 1836,HMS Beagle leaves Ascension Island,United Kingdom,Ascension Island,-7.9333,-14.3667,899.1964
+554,CE 1836,HMS Beagle calls Bahia,Brazil,Bahia,-12.9747,-38.4767,899.2368
+555,CE 1836,HMS Beagle leaves Bahia,Brazil,Bahia,-12.9747,-38.4767,899.2593
+556,CE 1836,HMS Beagle calls Pernambuco,Brazil,Pernambuco,-8.05,-34.9,899.2862
+557,CE 1836,HMS Beagle leaves Pernambuco,Brazil,Pernambuco,-8.05,-34.9,899.3086
+558,CE 1836,HMS Beagle calls Cape Verde Islands,Cabo Verde,Praia,15.3,-23.7,899.4298
+559,CE 1836,HMS Beagle leaves Cape Verde Islands,Cabo Verde,Praia,15.3,-23.7,899.4568
+560,CE 1836,HMS Beagle returns to Falmouth,United Kingdom,Falmouth,50.15,-5.07,899.5151
+561,CE 1572,SN1572 is Observed by Tycho Brahe,Sweden,Scania,56.0881,13.2322,598.7726
+562,CE 1604,SN1604 is Observed by Johannes Kepler,Czech Republic,Prague,50.0833,14.4167,625.8363
+563,CE 1577,6-year-old Kepler gazes at the Great Comet,Germany,Stuttgart,48.7775,9.18,602.9492
+564,CE 1577,Tycho Brahe observes the Great Comet,Sweden,Ven,55.9058,12.695,602.8788
+565,CE 1802,Alexander von Humboldt explores Mount Chimborazo,Ecuador,Chimborazo,-1.4692,-78.8175,846.5468
+566,CE 1805,Tableau Physique des régions équinoxiales fondé,France,Paris,48.8567,2.3522,850.107
+567,CE 1787,H-B de Saussure observes cyanometer reading “36” on Mont Blanc,Switzerland,Mont Blanc,45.8326,6.8652,825.4101
+568,CE 1799,A von Humboldt observes cyanometer reading “41” on Pico del Teide,Spain,Tenerife,28.2723,-16.6425,842.1962
+569,CE 1802,A von Humboldt observes cyanometer reading “46” on Chimborazo,Ecuador,Chimborazo,-1.4692,-78.8175,846.5468
+570,CE 1970,Djenné-Djenno identified via aerial survey,Mali,Djenné-Djenno,13.9061,-4.5539,1203.976
+571,CE 1977,Excavations begin by Roderick and Susan McIntosh,Mali,Djenné-Djenno,13.9061,-4.5539,1228.0972
+572,BCE 250,Settled by people using Iron tools and eating African Rice,Mali,Djenné-Djenno,13.9061,-4.5539,-49.7494
+573,CE 50,Pastoralism and African Rice Cultivation in Djenné-Djenno,Mali,Djenné-Djenno,13.9061,-4.5539,9.5359
+574,CE 400,Djenné-Djenno builds Walls and became a Trading Post,Mali,Djenné-Djenno,13.9061,-4.5539,90.7937
+575,CE 1200,Djenné-Djenno produces Unique Terra-Cotta Figurines	Mali,Djenné-Djenno,13.9061,-4.5539,366.7546
+576,CE 1400,Djenné-Djenno is Abandoned,Mali,Djenné-Djenno,13.9061,-4.5539,475.7501
+577,about 9500 years ago,Tassili n'Ajjer Round Head Period,Algeria,Tassili n'Ajjer,25.5,9,-660.8014
+578,BCE 6300,Tassili n'Ajjer Pastral Period,Algeria,Tassili n'Ajjer,25.5,9,-602.8164
+579,CE 1971,Fighting Dinosaurs found,Mongolia,Djadochta Formation,44.1386,103.7278,1209.5562
+580,75M years ago,Fighting Dinosaurs die,Mongolia,Djadochta Formation,44.1386,103.7278,-4553.5545
+581,70M years ago,Manjungasaurus cannibalising each other,Madagascar,Mahajanga,-15.7167,46.3167,-4523.5922
+582,CE 1896,Majungasaurus found,Madagascar,Mahajanga,-15.7167,46.3167,1009.5914
+583,128M years ago,Mammals eat Dinosaurs,China,Beipiao,41.801,120.771,-4785.6982
+584,CE 2012,Mammals eating Dinosaurs found,China,Beipiao,41.801,120.771,1373.9727
+585,CE 607,Japanese missions to Sui China (the second),Japan,Asuka-mura,34.4713,135.8207,147.1445
+586,CE 646,Imperial Rescript of Taika Reform,Japan,Osaka,34.6807,135.5233,158.6567
+587,CE 752,Great Buddha of Nara Eye-opening Ceremony,Japan,Nara,34.6889,135.8398,191.5958
+588,CE 1185,Imperial Sanction to the Kamakura Shogunate,Japan,Kyoto,35.0266,135.7599,360.0861
+589,CE 1274,Landing of Yuan forces in Hakata,Japan,Hakata,33.618,130.333,404.4369
+590,CE 1281,Yuan Forces land on Shiga Island,Japan,Shiga Island,33.675,130.3,407.9352
+591,CE 1337,Emperor Godaigo establishes the Imperial Court in Yoshino,Japan,Yoshino,34.396,135.8576,438.4784
+592,CE 1336,Kenmu Shikimoku,Japan,Kyoto,35.0301,135.7608,438.3945
+593,BCE 500,Vulca makes Apollo of Veii,Italy,Veii,42.0233,12.3897,-93.6356
+594,CE 1916,Apollo of Veii found,Italy,Veii,42.0233,12.3897,1054.1548
+595,BCE 500,Refugees from Teos resettle Abdera,Greece,Abdera,40.9333,24.9667,-93.6356
+596,BCE 500,Darius I declares Aramaic the official language of the western half of his empire,Iran,Persepolis,22.935,52.8916,-93.6356
+597,BCE 500,Hanno the Navigator's naval exploration could have reached Gabon,South Atlantic Ocean,Gulf of Guinea,-0.5475,8.8548,-93.6356
+598,BCE 500,The first republic in Vaishali founded,India,Bihar,25.99,85.13,-93.6356
+599,BCE 500,The oldest known Zapotec writing appears,Mexico,Oaxaca,17.055,-96.655,-93.6356
+600,BCE 500,The Olmec established Monte Albán,Mexico,Oaxaca,17.0439,-96.7678,-93.6356
+601,CE 1812,Napoleon's army crosses the Niemen River,Lithuania,Kaunas,54.8985,23.9036,861.3484
+602,CE 1812,Napoleon's army passes through Wilna,Lithuania,Vilnius,54.7872,25.2797,861.3649
+603,CE 1812,Napoleon's army passes through Gloubokoe,Belarus,Hlybokaye,55.1381,27.685,861.3731
+604,CE 1812,Napoleon's army passes through Witebsk,Belarus,Vitebsk,55.1833,30.1667,861.4389
+605,CE 1812,Napoleon's army passes through Smolensk,Russia,Smolensk,54.7826,32.0453,861.5665
+606,CE 1812,Napoleon's army passes through Dorogobuz,Russia,Dorogobuz,54.9141,33.3028,861.6035
+607,CE 1812,Napoleon's army passes through Wiasma,Russia,Vyazma,55.2119,34.2951,861.6241
+608,CE 1812,Napoleon's army passes through Ghiat,Russia,Gagarin,55.552,34.9954,861.6364
+609,CE 1812,Napoleon's army passes through Mojaisk,Russia,Mozhaysk,55.5012,36.0275,861.6446
+610,CE 1812,Napoleon's army occupies Moscow,Russia,Moscow,55.7558,37.6173,861.6817
+611,CE 1812,Russian army abandons Moscow,Russia,Moscow,55.7558,37.6173,861.6323
+612,CE 1812,Napoleon's army withdraws from Moscow,Russia,Moscow,55.7558,37.6173,861.8299
+613,CE 1812,Battle of Taruchino,Russia,Tarutino,54.9344,35.7345,861.834
+614,CE 1812,Battle of Maloyaroslavets,Russia,Maloyaroslavets,55.0173,36.4707,861.8505
+615,CE 1812,Napoleon's army passes through Borisov,Belarus,Barysaw,54.2267,28.4922,861.9617
+616,CE 1812,Battle of Berezina,Belarus,Studienka,54.3247,28.3544,861.9822
+617,CE 1812,Napoleon's army passes through Smolensk,Russia,Smolensk,54.7826,32.0453,861.9122
+618,CE 1812,Battle of Vyazma,Russia,Vyazma,55.2119,34.2951,861.8875
+619,CE 1812,Napoleon's army crosses the Niemen River,Lithuania,Kaunas,54.8985,23.9036,862.0317
+620,CE 1812,Napoleon's army passes through Wilna,Lithuania,Vilnius,54.6872,25.2797,862.0234
+621,CE 1812,Napoleon's army passes through Smorgoni,Belarus,Smarhon,54.4793,26.3958,862.0152
+622,CE 1812,Napoleon's army passes through Molodetchno,Belarus,Maladzyechna,54.3062,26.8546,862.007
+623,CE 1812,Napoleon returns to Paris from Moscow,France,Paris,48.8738,2.295,862.077
