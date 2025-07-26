@@ -621,3 +621,30 @@ id,annee,affair,location,precise,x_coordinate,y_coordinate,z_coordinate
 621,CE 1812,Napoleon's army passes through Smorgoni,Belarus,Smarhon,3997.9114,6252.4357,1984.2152
 622,CE 1812,Napoleon's army passes through Molodetchno,Belarus,Maladzyechna,3998.7247,6238.9164,2024.6864
 623,CE 1812,Napoleon returns to Paris from Moscow,France,Paris,5048.6011,5786.6222,202.3315
+624,CE 1600,Giordano Bruno is burned alive at the stake,Italy,Rome,5408.6665,4969.4572,1196.2997
+625,CE 1600,Huaynaputina erupts,Peru,Huaynaputina,2339.3271,-2127.9772,-6736.4414
+626,CE 1900,Liefde- the first Dutch ship ever to arrive in Japan- anchors in Bungo,Japan,Usuki,-4399.1124,4269.446,4885.7093
+627,CE 1600,Battle of Nieuwpoort also known as the Battle of the Dunes,Belgium,Nieuwpoort,4666.3079,5793.1405,224.1388
+628,CE 1600,Battle of Mirăslău or Battle of Miriszló,Romania,Mirăslău,4701.7729,5386.522,2065.5687
+629,CE 1600,East India Company founded,India,Kolkata,195.493,2856.2397,6869.8797
+630,CE 1991,Pinatubo Eruption VEI-6,Philippines,Mount Pinatubo,-3951.6327,2116.285,6748.8818
+631,CE 1912,Novarupta Eruption VEI-6,United States,Novarupta,-3754.4339,6690.157,-1738.2363
+632,CE 1902,Santa María Eruption VEI-6,Guatemala,Santa María,-152.9339,1997.9543,-7584.2088
+633,CE 1883,Krakatoa Eruption VEI-6,Indonesia,Krakatoa,-2063.7592,-829.5951,7480.7
+634,CE 1815,Mount Tambora Eruption VEI-7,Indonesia,Mount Tambora,-3570.8201,-1102.8235,6715.7358
+635,640K years ago,Yellowstone Caldera eruption VEI-over7,United States,Yellowstone,-1094.5222,3032.2818,-2896.569
+636,2.1M years ago,Yellowstone Caldera eruption VEI-over7,United States,Yellowstone,-964.4472,2671.9201,-2552.3356
+637,1.3M years ago,Yellowstone Caldera eruption VEI-over7,United States,Yellowstone,-1016.9795,2817.4563,-2691.3582
+638,1.28M years ago,Mount Mazama eruption,United States,Mount Mazama,-1569.07,2746.6042,-2502.8157
+639,600K years ago,Mount Mazama eruption,United States,Mount Mazama,-1696.7604,2970.122,-2706.4941
+640,27M years ago,La Garita Caldera eruption VEI-8,United States,State of Colorado,-624.1052,1659.4225,-2049.7726
+641,CE 1912,Novarupta Plinian eruption,United States,Mount Katmai,-3747.0726,6690.984,-1750.7214
+642,520K years ago,Incapillo erupts Ignimbrite,Argentina,Incapillo,1412.655,-2069.3288,-3645.8161
+643,CE 79,Pliny the Elder dies while observing the eruption of Mount Vesuvius.,Italy,Stabiae,5017.2299,4457.9455,1297.4411
+644,1.15M years ago,Incahuasi erupts,Argentina,Incahuasi,1343.9932,-1854.3876,-3376.6196
+645,710K years ago,Incahuasi erupts,Argentina,Incahuasi,1412.8226,-1949.3557,-3549.5452
+646,3M years ago,Ojos del Salado volcanic activity commences,Argentina,Ojos del Salado,1193.1942,-1669.6715,-3035.4681
+647,CE 1970,World's first ascent of Tipas,Argentina,Cerroo Tipas,2610.9207,-3669.3214,-6645.2086
+648,2.9M years ago,The Tipas-Cerro Bayo complex is active,Argentina,Cerroo Tipas,1195.9992,-1681.3521,-3045.6949
+649,CE 2016,Copahue erupts,Argentina,Copahue,2093.3003,-5038.9661,-6137.3347
+650,650K years ago,Cerro Tuzgle volcanic activity commences,Argentina,Cerro Tuzgle,1576.9458,-1763.4815,-3623.2678
