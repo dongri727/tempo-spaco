@@ -75,12 +75,12 @@
     <Compile Include="Assets/Scripts/GlobeSelectedManager.cs" />
     <Compile Include="Assets/Scripts/GeoConverter.cs" />
     <Compile Include="Assets/Planet Earth Free/SpinFree.cs" />
-    <Compile Include="Assets/Scripts/SceneTransitionHandler.cs" />
     <Compile Include="Assets/Scripts/EastWestImporter.cs" />
     <Compile Include="Assets/Scripts/NewScriptableObjectScript.cs" />
     <Compile Include="Assets/Scripts/CSVImporter.cs" />
     <Compile Include="Assets/Scripts/TileMeta.cs" />
     <Compile Include="Assets/Scripts/EnFace.cs" />
+    <Compile Include="Assets/Scripts/SceneDuplicator.cs" />
     <Compile Include="Assets/Scripts/GlobePopUp.cs" />
     <Compile Include="Assets/Scripts/Line300Manager.cs" />
     <Compile Include="Assets/Scripts/RotationImporter.cs" />

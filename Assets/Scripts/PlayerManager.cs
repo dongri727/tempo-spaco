@@ -13,6 +13,14 @@ public class PlayerManager : MonoBehaviour
 
     void Start()
     {
+        // 開発用：このScene内に既にPlayerが存在していれば破棄（複製防止）
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+        if (players.Length > 1)
+        {
+            Destroy(this.gameObject);
+            return;
+        }
+
         rb = GetComponent<Rigidbody>();
 
         string sceneName = SceneManager.GetActiveScene().name;
