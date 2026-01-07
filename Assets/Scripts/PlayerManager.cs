@@ -7,7 +7,7 @@ public class PlayerManager : MonoBehaviour
 
     [Header("移動・回転設定")]
     public float moveSpeed = 10f;      // WASDでの水平移動速度
-    public float rotationSpeed = 1f;   // 回転速度
+    public float rotationSpeed = 0.1f;   // 回転速度
     private string currentScene;
 
 
@@ -30,7 +30,7 @@ public class PlayerManager : MonoBehaviour
 
     }
 
-    void FixedUpdate()
+    void Update()
     {
         // --- WASDで水平移動 ---
         if (Input.GetKey(KeyCode.W))

@@ -16,6 +16,14 @@ public class PopUp : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
         displayText = data;
     }
 
+        void Awake()
+    {
+        if (textMeshPro == null)
+        {
+            textMeshPro = GetComponent<TextMeshPro>();
+        }
+    }
+
     public void OnPointerEnter(PointerEventData eventData)
     {
         textMeshPro.text = displayText;

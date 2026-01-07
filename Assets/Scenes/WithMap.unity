@@ -307,6 +307,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -328,6 +330,7 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
@@ -363,10 +366,10 @@ Rigidbody:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 331277321}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -747,7 +750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80696d83956094e3d9ba13714a6ed076, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textMeshPro: {fileID: 0}
+  textMeshPro: {fileID: 1892284599}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1894,6 +1897,35 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3330035733666964315, guid: 752c838325344424687b13c625754aa4, type: 3}
   m_PrefabInstance: {fileID: 727953825531137777}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1892284596 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2900285534823147125, guid: 842b14fd7a0d547bd9c9042b536e7eb4, type: 3}
+  m_PrefabInstance: {fileID: 3847224747334786116}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1892284599 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6553229056180028771, guid: 842b14fd7a0d547bd9c9042b536e7eb4, type: 3}
+  m_PrefabInstance: {fileID: 3847224747334786116}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892284596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1892284601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892284596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80696d83956094e3d9ba13714a6ed076, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textMeshPro: {fileID: 1892284599}
 --- !u!43 &1919106212
 Mesh:
   m_ObjectHideFlags: 0
@@ -1901,7 +1933,7 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: pb_Mesh-1228
-  serializedVersion: 11
+  serializedVersion: 12
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
@@ -2059,6 +2091,19 @@ Mesh:
     offset: 0
     size: 0
     path: 
+  m_MeshLodInfo:
+    serializedVersion: 2
+    m_LodSelectionCurve:
+      serializedVersion: 1
+      m_LodSlope: 0
+      m_LodBias: 0
+    m_NumLevels: 1
+    m_SubMeshes:
+    - serializedVersion: 2
+      m_Levels:
+      - serializedVersion: 1
+        m_IndexStart: 0
+        m_IndexCount: 0
 --- !u!1 &1930130505 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4188066262776501171, guid: 6a1c8a9ab03e14d9cb6e49c5e4dc8215, type: 3}
@@ -2076,7 +2121,7 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: pb_Mesh23806(Clone)(Clone)
-  serializedVersion: 11
+  serializedVersion: 12
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
@@ -2234,6 +2279,19 @@ Mesh:
     offset: 0
     size: 0
     path: 
+  m_MeshLodInfo:
+    serializedVersion: 2
+    m_LodSelectionCurve:
+      serializedVersion: 1
+      m_LodSlope: 0
+      m_LodBias: 0
+    m_NumLevels: 1
+    m_SubMeshes:
+    - serializedVersion: 2
+      m_Levels:
+      - serializedVersion: 1
+        m_IndexStart: 0
+        m_IndexCount: 0
 --- !u!1001 &727953825531137777
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2739,6 +2797,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1919106212}
+    - target: {fileID: 6553229056180028771, guid: 842b14fd7a0d547bd9c9042b536e7eb4, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3642711038260601160, guid: 842b14fd7a0d547bd9c9042b536e7eb4, type: 3}
     m_RemovedGameObjects:
@@ -2748,6 +2810,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3642711038260601152, guid: 842b14fd7a0d547bd9c9042b536e7eb4, type: 3}
       insertIndex: -1
       addedObject: {fileID: 567973849}
+    - targetCorrespondingSourceObject: {fileID: 2900285534823147125, guid: 842b14fd7a0d547bd9c9042b536e7eb4, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1892284601}
     - targetCorrespondingSourceObject: {fileID: 2900285534823147125, guid: 842b14fd7a0d547bd9c9042b536e7eb4, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}

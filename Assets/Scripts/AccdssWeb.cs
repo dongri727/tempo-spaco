@@ -6,7 +6,7 @@ public class AccdssWeb : MonoBehaviour
 {
     public void clickPhoto() 
     {
-        Application.OpenURL("https://app.laporte.academy/");
+        Application.OpenURL("https://chronomap.serverpod.space/");
 
     }
 }
