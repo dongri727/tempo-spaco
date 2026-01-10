@@ -371,8 +371,8 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 369,CE 1492,C.Columbus leaves Gran Canaria,Spain,Gran Canaria,27.9667,-15.6,537.3793
 370,CE 1492,C.columbus returns to La Gomera,Spain,La Gomera,28.0915,-27.1114,537.3812
 371,CE 1492,C.Columbus passes El  Hierro,Spain,El Hierro,27.75,-18,537.3949
-372,22K years ago,Minatogawa Man lives in Okinawa,Japan,Okinawa沖縄,26.1289,127.7591,-1060.5177
-373,CE 1968,Monatogawa Man found,Japan,Okinawa沖縄,26.1289,127.7591,1197.7743
+372,22K years ago,Minatogawa Man lives in Okinawa,Japan,Okinawa,26.1289,127.7591,-1060.5177
+373,CE 1968,Monatogawa Man found,Japan,Okinawa,26.1289,127.7591,1197.7743
 374,19K years ago,Holocene glacial retreat,World Wide,(whole),90,0,-1002.7859
 375,115K years ago,Last Glacial Period,World Wide,(whole),90,0,-1747.042
 376,CE 1833,Beagle leaves Maldonado,Uruguay,Maldonado,-34.9082,-54.9534,894.3016
@@ -428,24 +428,24 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 427,CE 2000,search of the Suiyo Seamount,North Pacific Ocean,off the Ogasawara Islands,28.6,140.6333,1320.7957
 428,CE 2001,Search of Dai-Yon Yonaguni Knoll,North Pacific Ocean,Okinawa Trough,24.8489,122.7002,1322.969
 429,CE 2001,Search of the Harima Knoll,North Pacific Ocean,Okinawa Trough,24.858,123.8415,1322.969
-430,BCE 5700,Paddy Fields are created,China,Kuahuqiao 跨湖橋,30.1441,120.2183,-570.6361
-431,BCE 1922,Yellow River Flood and Dayu's Rule of Water,China,Lajia 喇家,35.8278,102.8542,-283.0403
-432,CE 1999,Escavation of LajiaSite,China,Lajia 喇家,35.8278,102.8542,1312.5699
+430,BCE 5700,Paddy Fields are created,China,Kuahuqiao,30.1441,120.2183,-570.6361
+431,BCE 1922,Yellow River Flood and Dayu's Rule of Water,China,Lajia,35.8278,102.8542,-283.0403
+432,CE 1999,Escavation of LajiaSite,China,Lajia,35.8278,102.8542,1312.5699
 433,CE 861,Nilometer is installed,Egypt,Cairo,30.0208,31.2256,228.0685
-434,35K years ago,Homo lives at Tachikiri,Japan,Tanegashima 種子島,30.5553,130.9647,-1247.8677
-435,35K years ago,Homo lives at Yokomine,Japan,Tanegashima 種子島,30.4433,130.8736,-1247.8677
-436,30K years ago,Homo lives TsuchihamaYaYa,Japan,Amami-Oshima 奄美大島,28.4138,129.6722,-1185.0008
-437,30K years ago,Homo lives Kishigou,Japan,Amami-Oshima 奄美大島,28.4635,129.7154,-1185.0008
-438,30K years ago,Homo lives Garazao,Japan,Tokunoshima 徳之島,27.7421,128.912,-1185.0008
-439,36.5K years ago,Homo lives Yamashita First Cave ,Japan,Okinawa沖縄,26.2008,127.6728,-1265.0806
-440,35K years ago,Homo lives SkitariDo,Japan,Okinawa沖縄,26.1452,127.7473,-1247.8677
-441,21K years ago,Homo lives in Takigawa,Japan,Okinawa沖縄,26.13,127.7616,-1042.1135
-442,30K years ago,Homo lives in Pinzaabu,Japan,Miyakozima 宮古島,24.7488,125.3444,-1185.0008
+434,35K years ago,Homo lives at Tachikiri,Japan,Tanegashima,30.5553,130.9647,-1247.8677
+435,35K years ago,Homo lives at Yokomine,Japan,Tanegashima,30.4433,130.8736,-1247.8677
+436,30K years ago,Homo lives TsuchihamaYaYa,Japan,Amami-Oshima,28.4138,129.6722,-1185.0008
+437,30K years ago,Homo lives Kishigou,Japan,Amami-Oshima,28.4635,129.7154,-1185.0008
+438,30K years ago,Homo lives Garazao,Japan,Tokunoshima,27.7421,128.912,-1185.0008
+439,36.5K years ago,Homo lives Yamashita First Cave ,Japan,Okinawa,26.2008,127.6728,-1265.0806
+440,35K years ago,Homo lives SkitariDo,Japan,Okinawa,26.1452,127.7473,-1247.8677
+441,21K years ago,Homo lives in Takigawa,Japan,Okinawa,26.13,127.7616,-1042.1135
+442,30K years ago,Homo lives in Pinzaabu,Japan,Miyakozima,24.7488,125.3444,-1185.0008
 443,27.5K years ago,Homo lives Shirahosaonetabaru Cave,Japan,Ishigaki Island,24.4246,124.2516,-1149.7887
-444,CE 2016,KoukaiProject is officially launched ,Japan,Tokyo東京,35.7191,139.7767,1393.4002
+444,CE 2016,KoukaiProject is officially launched ,Japan,Tokyo,35.7191,139.7767,1393.4002
 445,CE 2016,2 Boats of Typha leave Yonaguni for Iriomote,Japan,Yonaguni ,24.4375,122.971,1394.7886
 446,CE 2016,2 Boats of Typha abandon the voyage,North Pacific Ocean,East China Sea,24.5202,123.2406,1394.7886
-447,CE 2017,Bambou Boat Ira1st leaves Dawu for  Lvdao,Taiwan,Dawu 大武,22.3425,120.8996,1399.5625
+447,CE 2017,Bambou Boat Ira1st leaves Dawu for  Lvdao,Taiwan,Dawu,22.3425,120.8996,1399.5625
 448,CE 2017,Bambou Boat Ira 1st abandons the voyage,North Pacific Ocean,Philippine Sea,22.6648,121.4001,1399.5625
 449,CE 2019,Dugout Canoe SugiMe (Goddess of Cedar)leaves Wushibi for Yonaguni ,Taiwan,Wushibi 烏石鼻,24.4721,121.8381,1410.4632
 450,CE 2019,Dugout Canoe SugiMe arrives Nahma beach ,Japan,Yonaguni ,24.4481,122.9399,1410.4924
@@ -504,7 +504,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 503,CE 1932,Neutron discovered,United Kingdom,Cambridge,52.2031,-0.12,1094.0361
 504,CE 2000,Tau neutrino first observed directly,United States,Winfield,41.8319,-88.2572,1319.5891
 505,CE 2000,Quark-gluon fireball discovered,Switzerland,Geneva,46.2342,6.0528,1317.6795
-506,CE 1996,Tsukuba Meteorite falls,Japan,Tsukuba つくば,36.0847,140.0764,1300.4087
+506,CE 1996,Tsukuba Meteorite falls,Japan,Tsukuba,36.0847,140.0764,1300.4087
 507,CE 1898,Takahe declared extinct,New Zealand,South Island,-43.9833,170.45,1013.8476
 508,CE 1948,Takahe rediscovered,New Zealand,Lake Te Anau,-45.4169,167.7181,1139.3554
 509,CE 1948,Takahe listed as Critically Endangered in IUCN Red List,Switzerland,Gland,46.42,6.27,1139.4412
@@ -583,14 +583,14 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 582,CE 1896,Majungasaurus found,Madagascar,Mahajanga,-15.7167,46.3167,1009.5914
 583,128M years ago,Mammals eat Dinosaurs,China,Beipiao,41.801,120.771,-4785.6982
 584,CE 2012,Mammals eating Dinosaurs found,China,Beipiao,41.801,120.771,1373.9727
-585,CE 607,Japanese missions to Sui China (the second),Japan,Asuka-mura明日香村,34.4713,135.8207,147.1445
-586,CE 646,Imperial Rescript of Taika（大化） Reform,Japan,Osaka大阪,34.6807,135.5233,158.6567
-587,CE 752,Great Buddha of Nara - Eye-opening Ceremony,Japan,Nara奈良,34.6889,135.8398,191.5958
-588,CE 1185,Imperial Sanction to the Kamakura Shogunate（文治の勅許）,Japan,Kyoto京都,35.0266,135.7599,360.0861
-589,CE 1274,Landing of Yuan forces in Hakata,Japan,Hakata博多,33.618,130.333,404.4369
-590,CE 1281,Yuan Forces land on Shiga Island,Japan,Shiga Island志賀島,33.675,130.3,407.9352
-591,CE 1337,Emperor Godaigo establishes the Imperial Court in Yoshino,Japan,Yoshino吉野,34.396,135.8576,438.4784
-592,CE 1336,Kenmu Shikimoku（建武式目）,Japan,Kyoto京都,35.0301,135.7608,438.3945
+585,CE 607,Japanese missions to Sui China (the second),Japan,Asuka-mura,34.4713,135.8207,147.1445
+586,CE 646,Imperial Rescript of Taika Reform,Japan,Osaka,34.6807,135.5233,158.6567
+587,CE 752,Great Buddha of Nara - Eye-opening Ceremony,Japan,Nara,34.6889,135.8398,191.5958
+588,CE 1185,Imperial Sanction to the Kamakura Shogunate,Japan,Kyoto,35.0266,135.7599,360.0861
+589,CE 1274,Landing of Yuan forces in Hakata,Japan,Hakata,33.618,130.333,404.4369
+590,CE 1281,Yuan Forces land on Shiga Island,Japan,Shiga Island,33.675,130.3,407.9352
+591,CE 1337,Emperor Godaigo establishes the Imperial Court in Yoshino,Japan,Yoshino,34.396,135.8576,438.4784
+592,CE 1336,Kenmu Shikimoku,Japan,Kyoto,35.0301,135.7608,438.3945
 593,BCE 500,Vulca makes Apollo of Veii,Italy,Veii,42.0233,12.3897,-93.6356
 594,CE 1916,Apollo of Veii found,Italy,Veii,42.0233,12.3897,1054.1548
 595,BCE 500,Refugees from Teos resettle Abdera,Greece,Abdera,40.9333,24.9667,-93.6356
@@ -667,15 +667,15 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 666,100M years ago,a Hell Ant eats a cockroach,Myanmar,Myitkyina,25.3833,97.4,-4678.4902
 667,CE 2020,Paper on a Hell Ant eating a cockroch in Amber,World Wide,WebSite,90,0,1417.1552
 668,CE 2025,Paper: Periodic table for highly charged ions,World Wide,WebSite,90,0,1442.3791
-669,29K years ago,Aira Caldera Pyroclastic Eruption,Japan,Kagoshima Bay鹿児島湾,31.65,130.7,-1171.2566
-670,90K years ago,Ultra Plinian Eruption of Mount Aso,Japan,Mount Aso阿蘇山,32.2842,131.1039,-1642.7458
-671,7.3K years ago,Kikai Caldera erupts and destroys the Jomon culture of Kyushu,Japan,Iōjima硫黄島,30.79,130.31,-651.6591
-672,52K years ago,Ultra Plinian Eruption of Mount Hakone,Japan,Hakone箱根,35.26,139.0198,-1411.6871
-673,400K years ago,Kussharo Cldera pyroclastic flow,Japan,Lake Kussharo 屈斜路湖,43.6333,144.3333,-2282.8163
-674,CE 685,Mount Yake erupts,Japan,Mount Yakedakw焼岳,32.2269,137.5869,170.4305
-675,CE 385,Nihonshoki describes an erption in Shinano,Japan,Mount Asama浅間山,36.4063,138.5231,87.0438
+669,29K years ago,Aira Caldera Pyroclastic Eruption,Japan,Kagoshima Bay,31.65,130.7,-1171.2566
+670,90K years ago,Ultra Plinian Eruption of Mount Aso,Japan,Mount Aso,32.2842,131.1039,-1642.7458
+671,7.3K years ago,Kikai Caldera erupts and destroys the Jomon culture of Kyushu,Japan,Iōjima,30.79,130.31,-651.6591
+672,52K years ago,Ultra Plinian Eruption of Mount Hakone,Japan,Hakone,35.26,139.0198,-1411.6871
+673,400K years ago,Kussharo Cldera pyroclastic flow,Japan,Lake Kussharo,43.6333,144.3333,-2282.8163
+674,CE 685,Mount Yake erupts,Japan,Mount Yakedakw,32.2269,137.5869,170.4305
+675,CE 385,Nihonshoki describes an erption in Shinano,Japan,Mount Asama,36.4063,138.5231,87.0438
 676,BCE 466,Mount Chōkai collapses,Japan,Mount Chōkai,39.0992,140.0489,-87.9213
-677,CE 715,TooTouMi earthquake and IkeGuchi collapse ,Japan,Iida飯田市,35.515,137.8214,179.9158
+677,CE 715,TooTouMi earthquake and IkeGuchi collapse ,Japan,Iida,35.515,137.8214,179.9158
 678,CE 1854,Broad Street Cholera Outbreak,United Kingdom,Soho,51.5133,-0.1367,930.0005
 679,CE 1854,John Snow maps London cholera outbreak and identifies water source,United Kingdom,Soho,51.5133,-0.1367,930.0295
 680,CE 1854,London authorities close Broad Street Well,United Kingdom,Soho,51.5133,-0.1367,930.0343
@@ -687,7 +687,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 686,3.8K years ago,Traces of plague on Bronze Age human bones,Russia,Samara,53.2028,50.1408,-449.4129
 687,4.2K years ago,Traces of plague on Bronze Age human bones,Croatia,Beli Manastir,45.7667,18.6,-477.8964
 688,BCE 5500,Cucuteni–Trypillia culture uses the potter's wheel,Ukraine,(unknown),47,30,-559.3567
-689,BCE 4800,Yangshao culture uses the potter's wheel,China,Xi'an西安,34.2732,109.0512,-517.3984
+689,BCE 4800,Yangshao culture uses the potter's wheel,China,Xi'an,34.2732,109.0512,-517.3984
 690,BCE 3129,Sumerian stone potter's wheel,Iraq,Ur,30.9631,46.1031,-396.9898
 691,BCE 5350,Ljubljana Marshes Wheel,Slovenia,Ljubljana,45.9874,14.4539,-550.7006
 692,CE 2002,Ljubljana Marshes Wheel found,Slovenia,Ljubljana,45.9874,14.4539,1325.5243
@@ -736,8 +736,8 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 734,CE 2025,Cardinal Prevost is elected as the 267th pope Leo XIV,Vatican City,(whole),41.9025,12.4517,1442.7398
 735,CE 2025,Cosmos482 reentry,Indian Ocean,Bay of Bengal,12.4508,87.5988,1442.7712
 736,CE 2025,Cosmos482 has fallen,Indian Ocean,(whole),-8.8403,95.1951,1442.7712
-737,1.8M years ago,Homo lives Xihoudu西侯度,China,Xihoudu西侯度,34.6931,110.27,-2934.2602
-738,BCE 6000,People use the salt from Xiechi Lake解池,China,Yuncheng運城,35.0627,111.007,-587.0243
+737,1.8M years ago,Homo lives Xihoudu,China,Xihoudu,34.6931,110.27,-2934.2602
+738,BCE 6000,People use the salt from Xiechi Lake,China,Yuncheng,35.0627,111.007,-587.0243
 739,CE 1957,Sputnik 1 launched,Kazakhstan,Baikonur,45.965,63.305,1165.4616
 740,CE 1972,Some parts of Cosmos482 fall into New Zealand,New Zealand,(unknown),-42,174,1211.8039
 741,CE 2007,Klyuchevskaya Sopka begins eruption cycle,Russia,Kamchatka,56.056,160.6441,1348.4542
@@ -786,14 +786,14 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 784,BCE 500,Solar Observations at El Infiernito,Colombia,Altiplano Cundiboyacense,5.5819,-73.5195,-93.6356
 785,BCE 4900,Neolithic Solar Observatory at Goseck,Germany,Burgenlandkreis,511997,11.8551,-523.6464
 786,CE 1991,Goseck Circle found,Germany,Burgenlandkreis,51.1997,11.8661,1279.8027
-787,CE 700,Astronomical Ceiling of Kitora Tomb,Japan,Asuka-mura明日香村,34.4833,135.8333,175.0554
-788,CE 1983,Kitora Tomb found,Japan,Asuka-mura明日香村,34.4833,135.8333,1252.7857
+787,CE 700,Astronomical Ceiling of Kitora Tomb,Japan,Asuka-mura,34.4833,135.8333,175.0554
+788,CE 1983,Kitora Tomb found,Japan,Asuka-mura,34.4833,135.8333,1252.7857
 789,BCE 1000,Solar and Stellar Alignments at Medicine Wheel,United States,Bighorn Basin,44.8311,-107.9219,-169.9947
 790,CE 1890,Bighorn Medicine Wheel found,United States,Bighorn Basin,44.8311,-107.9219,997.0678
 791,BCE 2500,Megalithic Structures of Antequera,Spain,Antequera,37.0167,-4.5667,-341.3413
 792,CE 2016,Dolmen of Mengaregistered Resistered as a World Heritage Site,Spain,Antequera,37.0167,-4.5667,1391.6814
 793,BCE 2000,Neolithic China Solar Observation,China,Xiangfen County,36.0883,111.5175,-291.3798
-794,CE 2024,Taosi陶寺 Site Museum opens,China,Xiangfen County,36.0883,111.5175,1439.941
+794,CE 2024,Taosi Site Museum opens,China,Xiangfen County,36.0883,111.5175,1439.941
 795,about 1000 years ago,Wurdi Youang Stone Arrangement,Australia,Mount Rothwell,-37.8485,144.2363,279.6993
 796,CE 1968,Kingdom of Swaziland gains independence from UK,Eswatini,Lobamba,-26.4167,31.1667,1199.9035
 797,CE 2018,Declaration of change of National Name,Eswatini,Lobamba,-26.4167,31.1667,1404.0306
@@ -1423,7 +1423,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 1422,CE 1462,Pedro de Sintra maps the Serra Lyoa,Sierra Leone,Freetown,8.3333,-13,515.9614
 1423,2.5B years ago,Sierra Leone is affected the Pan-African orogeny,Sierra Leone,(Whole),8.5,-12.1,-6076.4215
 1424,CE 1995,Tacugama Chimpanzee Sanctuary opens,Sierra Leone,Freetown,8.3333,-13,1299.6408
-1425,CE 243,The earliest record of Pu Luo Chung（蒲羅中）in a Chinese book（呉時外国伝）,China,Nanjing南京,32.05,118.7667,52.4537
+1425,CE 243,The earliest record of Pu Luo Chung in a Chinese book,China,Nanjing,32.05,118.7667,52.4537
 1426,CE 1025,Srivijayan Empire controlles Temasek(now Singapore),Singapore,Singapore,1.2833,103.8333,289.673
 1427,CE 1819,The British East India Company obtains permission from the Kingdom of Johor to build a trading post.,Singapore,Singapore,1.2833,103.8333,871.4234
 1428,CE 1942,Battle of Singapore begins,Singapore,Singapore,1.2833,103.8333,1120.4615
@@ -1795,7 +1795,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 1794,CE 1904,Dahomey becomes French colony,Benin,Porto-Novo,6.4833,2.6167,1026.869
 1795,CE 1985,Royal Palaces of Abomey designated UNESCO World Heritage Site,Benin,Abomey,7.1833,1.9833,1256.749
 1796,CE 2021,Return of royal artifacts from France to Benin,Benin,Abomey,7.1833,1.9833,1423.1265
-1797,BCE 2000,Prehistoric tools　in Bumthang Valley,Bhutan,Bumthang,27.55,90.75,-291.3797
+1797,BCE 2000,Prehistoric tools in Bumthang Valley,Bhutan,Bumthang,27.55,90.75,-291.3797
 1798,CE 746,Guru Rinpoche visits Bhutan and introduces Buddhism,Bhutan,Paro Taktsang,27.4913,89.3636,189.5529
 1799,CE 1692,Construction of Paro Taktsang (Tiger's Nest Monastery),Bhutan,Paro Taktsang,27.4913,89.3636,709.7071
 1800,CE 1616,Zhabdrung Ngawang Namgyal unifies Bhutan,Bhutan,Punakha,27.5833,89.8667,635.7026
@@ -2091,7 +2091,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 2090,CE 1932,Unification proclamation of KSA,Saudi Arabia,Mecca,21.3891,39.8579,1095.511
 2091,CE 2019,Abqaiq–Khurais oil facility attack,Saudi Arabia,Eastern Province,25,49.5,1411.4546
 2092,CE 2022,Founding Day holiday established,Saudi Arabia,Nationwide,24.7136,46.6753,1424.6811
-2093,CE 2016,Saudi Vision 2030 launched,Saudi Arabia,Riyadh,24.7136,46.6753,1393.7294
+2093,CE 2016,Saudi Vision 2030 launched,Saudi Arabia,Riyadh,24.7136,46.6753,1393.7294
 2094,66Mya,Danian dyrosaur fossils at Poponguine,Senegal,Poponguine,14.0833,-17.0333,-4498.0388
 2095,CE 1940,Neolithic microlithic site at Gorée,Senegal,Gorée Island,14.675,-17.435,1114.4683
 2096,CE 1200,Jolof Empire formation,Senegal,Djolof region,15.5,-14,366.754
@@ -2316,7 +2316,7 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 2315,BCE 1000,Early Iron Age in Southern Cameroon,Cameroon,Southern Cameroon Forests,4,11.5,-169.9945
 2316,120Mya,Dinosaur Tracks (Koum Basin),Cameroon,Koum Basin,9.3,14.2,-4757.6699
 2317,100Mya,Albian Ammonites Kribi-Campo,Cameroon,Kribi-Campo Basin,2.8,10,-4678.4902
-2318,CE 1986,Vertebrate Fossils Garoua　found,Cameroon,Babouri‑Figuil Basin,10.3,14.35,1260.5065
+2318,CE 1986,Vertebrate Fossils Garoua found,Cameroon,Babouri‑Figuil Basin,10.3,14.35,1260.5065
 2319,CE 1884,German Kamerun Colony,Cameroon,Multiple,6,12,984.8924
 2320,CE 1919,Cameroon Mandate division,Cameroon,Whole Territory,6,12,1061.2487
 2321,CE 1960,Independence from France,Cameroon,Yaoundé,3.848,11.5021,1172.3082
@@ -2509,55 +2509,55 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 2508,2Bya,Sagittarius Dwarf Triggers Star Formation,Milky Way,(Whole),90,0,-5979.5115
 2509,0.1Bya,Massive Starburst at Galactic Center,Milky Way,Center,90,0,-4678.4902
 2510,CE 2000,Milky Way Approaches Collision with Andromeda,Milky Way,(Whole),90,0,1316.8394
-2511,CE 593,Empress Suiko appoints Prince Shōtoku as regent,Japan,Asuka-mura明日香村,34.4713,135.8207,143.0936
-2512,CE 642,Empress Kōgyoku issues an edict to construct the Baekje Great Temple (Baekje Daiji),Japan,Asuka-mura明日香村,34.4713,135.8207,157.6877
-2513,CE 645,Empress Kōgyoku abdicates the throne,Japan,Asuka-mura明日香村,34.4713,135.8207,158.5165
-2514,CE 655,Empress Kōgyoku reascends the throne as Empress Saimei,Japan,Asuka-mura明日香村,34.4713,135.8207,161.3531
-2515,CE 690,Empress Jitō ascends the throne,Japan,Asuka-mura明日香村,34.4713,135.8207,172.0293
-2516,CE 708,Empress Genmei mints the Wadōkaichin coinage,Japan,Nara奈良,34.6911,135.7947,177.6811
-2517,CE 720,the Nihon Shoki (Chronicles of Japan) is completed,Japan,Nara奈良,34.6911,135.7947,181.299
-2518,CE 756,the Tachibana no Naramaro Rebellion is suppressed,Japan,Nara奈良,34.6911,135.7947,192.9043
-2519,CE 765,private ownership of newly cultivated land is prohibited,Japan,Nara奈良,34.6911,135.7947,195.6854
-2520,CE 1629,Empress Meishō (granddaughter of Tokugawa Ieyasu) ascends the throne,Japan,Kyoto京都,35.0252,135.7622,648.4766
-2521,CE 1762,Empress Go-Sakuramachi ascends the throne,Japan,Kyoto京都,35.0252,135.7622,792.2267
-2522,CE 770,Multiple poems by Mama no Tegona are included in the Man'yōshū,Japan,Ichikawa 市川,35.7376,139.9098,197.3137
-2523,CE 770,Songs of the wives of frontier guards (Sakimori) are included in the Man'yōshū,Japan,Kanto 関東,35.7376,139.9098,197.3137
-2524,CE 770,12 poems by Nukata no Ōkimi are included in the Man'yōshū,Japan,Otsu 大津,35.0283,135.855,197.3137
-2525,CE 770,84 poems by Ōtomo no Sakanoue no Iratsume are included in the Man'yōshū,Japan,Nara 奈良,34.6911,135.7947,197.3137
-2526,CE 770,29 poems by Kasano Iratsume are included in the Man'yōshū,Japan,Nara 奈良,34.6911,135.7947,197.3137
-2527,CE 1006,Murasaki Shikibu becomes a court lady to Empress Shōshi and begins writing The Tale of Genji,Japan,Kyoto 京都,35.0252,135.7622,282.1384
-2528,CE 996,Sei Shōnagon begins writing Makura no Soshi,Japan,Kyoto 京都,35.0252,135.7622,278.1239
-2529,CE 954,Fujiwara Michitsuna no Haha begins writing The Kagerō Diary,Japan,Kyoto 京都,35.0252,135.7622,261.9239
-2530,CE 1020,Sugawara Takasue no Musume begins writing The Sarashina Diary,Japan,Ichihara 市原,35.4981,140.1154,287.9611
-2531,CE 1030,Akazome Emon writes The Eiga Monogatari,Japan,Kyoto 京都,35.0252,135.7622,291.6957
-2532,CE 1003,Izumi Shikibu begins writing The Izumi Shikibu Diary,Japan,Kyoto 京都,35.0252,135.7622,281.0155
-2533,CE 905,18 poems by Ono no Komachi are included in the Kokin Wakashū,Japan,Kyoto 京都,35.0252,135.7622,243.7575
-2534,CE 905,22 poems by Ise are included in the Kokin Wakashū,Japan,Kyoto 京都,35.0252,135.7622,243.7575
-2535,CE 1008,Nakatsukasa is selected as one of the Thirty-Six Immortals of Poetry,Japan,Kyoto 京都,35.0252,135.7622,282.8656
-2536,CE 1250,Fujiwara Shunzei no Musume is selected as one of the Thirty-Six Immortal Lady Poets,Japan,Kyoto 京都,35.0252,135.7622,391.5468
-2537,CE 1204,Kugyō no Naishi of Emperor Go-Toba leaves many poems before dying young,Japan,Kyoto 京都,35.0252,135.7622,368.6861
-2538,CE 1108,Taira no Nakako (Suō no Naishi) leaves many poems and later takes religious vows,Japan,Kyoto 京都,35.0252,135.7622,324.5332
-2539,CE 1246,Ben no Naishi begins writing The Diary of Ben no Naishi,Japan,Kyoto 京都,35.0252,135.7622,389.5105
-2540,CE 1250,The Thirty-Six Immortal Lady Poets anthology is compiled,Japan,Kyoto 京都,35.0252,135.7622,391.5468
-2541,CE 956,Poetry Contest of Princess Kishi,Japan,Kyoto 京都,35.0252,135.7622,262.6818
-2542,CE 959,Poetry Contest of Princess Kishi in her garden,Japan,Kyoto 京都,35.0252,135.7622,263.8211
-2543,CE 1694,Watarai Sonome invites Basho and hosts a haiku gathering,Japan,Osaka 大阪,34.7015,135.5042,712.543
-2544,CE 1705,Watarai Sonome moves to Edo and opens an ophthalmology clinic,Japan,Fukagawa 深川,35.6729,139.7975,723.7323
-2545,CE 1703,Nonaka Ennyo opens a medical office and becomes official doctor of Tosa Domain,Japan,Kochi 高知,33.5509,133.4856,721.5449
+2511,CE 593,Empress Suiko appoints Prince Shōtoku as regent,Japan,Asuka-mura,34.4713,135.8207,143.0936
+2512,CE 642,Empress Kōgyoku issues an edict to construct the Baekje Great Temple (Baekje Daiji),Japan,Asuka-mura,34.4713,135.8207,157.6877
+2513,CE 645,Empress Kōgyoku abdicates the throne,Japan,Asuka-mura,34.4713,135.8207,158.5165
+2514,CE 655,Empress Kōgyoku reascends the throne as Empress Saimei,Japan,Asuka-mura,34.4713,135.8207,161.3531
+2515,CE 690,Empress Jitō ascends the throne,Japan,Asuka-mura,34.4713,135.8207,172.0293
+2516,CE 708,Empress Genmei mints the Wadōkaichin coinage,Japan,Nara,34.6911,135.7947,177.6811
+2517,CE 720,the Nihon Shoki (Chronicles of Japan) is completed,Japan,Nara,34.6911,135.7947,181.299
+2518,CE 756,the Tachibana no Naramaro Rebellion is suppressed,Japan,Nara,34.6911,135.7947,192.9043
+2519,CE 765,private ownership of newly cultivated land is prohibited,Japan,Nara,34.6911,135.7947,195.6854
+2520,CE 1629,Empress Meishō (granddaughter of Tokugawa Ieyasu) ascends the throne,Japan,Kyoto,35.0252,135.7622,648.4766
+2521,CE 1762,Empress Go-Sakuramachi ascends the throne,Japan,Kyoto,35.0252,135.7622,792.2267
+2522,CE 770,Multiple poems by Mama no Tegona are included in the Man'yōshū,Japan,Ichikawa,35.7376,139.9098,197.3137
+2523,CE 770,Songs of the wives of frontier guards (Sakimori) are included in the Man'yōshū,Japan,Kanto,35.7376,139.9098,197.3137
+2524,CE 770,12 poems by Nukata no Ōkimi are included in the Man'yōshū,Japan,Otsu,35.0283,135.855,197.3137
+2525,CE 770,84 poems by Ōtomo no Sakanoue no Iratsume are included in the Man'yōshū,Japan,Nara,34.6911,135.7947,197.3137
+2526,CE 770,29 poems by Kasano Iratsume are included in the Man'yōshū,Japan,Nara,34.6911,135.7947,197.3137
+2527,CE 1006,Murasaki Shikibu becomes a court lady to Empress Shōshi and begins writing The Tale of Genji,Japan,Kyoto,35.0252,135.7622,282.1384
+2528,CE 996,Sei Shōnagon begins writing Makura no Soshi,Japan,Kyoto,35.0252,135.7622,278.1239
+2529,CE 954,Fujiwara Michitsuna no Haha begins writing The Kagerō Diary,Japan,Kyoto,35.0252,135.7622,261.9239
+2530,CE 1020,Sugawara Takasue no Musume begins writing The Sarashina Diary,Japan,Ichihara,35.4981,140.1154,287.9611
+2531,CE 1030,Akazome Emon writes The Eiga Monogatari,Japan,Kyoto,35.0252,135.7622,291.6957
+2532,CE 1003,Izumi Shikibu begins writing The Izumi Shikibu Diary,Japan,Kyoto,35.0252,135.7622,281.0155
+2533,CE 905,18 poems by Ono no Komachi are included in the Kokin Wakashū,Japan,Kyoto,35.0252,135.7622,243.7575
+2534,CE 905,22 poems by Ise are included in the Kokin Wakashū,Japan,Kyoto,35.0252,135.7622,243.7575
+2535,CE 1008,Nakatsukasa is selected as one of the Thirty-Six Immortals of Poetry,Japan,Kyoto,35.0252,135.7622,282.8656
+2536,CE 1250,Fujiwara Shunzei no Musume is selected as one of the Thirty-Six Immortal Lady Poets,Japan,Kyoto,35.0252,135.7622,391.5468
+2537,CE 1204,Kugyō no Naishi of Emperor Go-Toba leaves many poems before dying young,Japan,Kyoto,35.0252,135.7622,368.6861
+2538,CE 1108,Taira no Nakako (Suō no Naishi) leaves many poems and later takes religious vows,Japan,Kyoto,35.0252,135.7622,324.5332
+2539,CE 1246,Ben no Naishi begins writing The Diary of Ben no Naishi,Japan,Kyoto,35.0252,135.7622,389.5105
+2540,CE 1250,The Thirty-Six Immortal Lady Poets anthology is compiled,Japan,Kyoto,35.0252,135.7622,391.5468
+2541,CE 956,Poetry Contest of Princess Kishi,Japan,Kyoto,35.0252,135.7622,262.6818
+2542,CE 959,Poetry Contest of Princess Kishi in her garden,Japan,Kyoto,35.0252,135.7622,263.8211
+2543,CE 1694,Watarai Sonome invites Basho and hosts a haiku gathering,Japan,Osaka,34.7015,135.5042,712.543
+2544,CE 1705,Watarai Sonome moves to Edo and opens an ophthalmology clinic,Japan,Fukagawa,35.6729,139.7975,723.7323
+2545,CE 1703,Nonaka Ennyo opens a medical office and becomes official doctor of Tosa Domain,Japan,Kochi,33.5509,133.4856,721.5449
 2546,CE 1250,Shajar al-Durr defeats France at the Battle of Mansurah and captures Louis IX,Egypt,Mansoura,31.05,31.3833,391.6472
-2547,CE 1221,Hojo Masako leads the Jokyu War and exiles Emperor Go-Toba to Oki Island,Japan,Kyoto 京都,34.9994,135.7586,377.2419
-2548,CE 1478,Hino Tomiko receives lectures on The Tale of Genji from Ichijo Kanera,Japan,Kyoto 京都,34.9994,135.7586,526.9728
+2547,CE 1221,Hojo Masako leads the Jokyu War and exiles Emperor Go-Toba to Oki Island,Japan,Kyoto,34.9994,135.7586,377.2419
+2548,CE 1478,Hino Tomiko receives lectures on The Tale of Genji from Ichijo Kanera,Japan,Kyoto,34.9994,135.7586,526.9728
 2549,CE 1418,Gawhar Shad builds the Great Mosque in Mashhad,Iran,Mashhad,36.3264,59.5433,487.0452
 2550,CE 1549,Hurrem Sultan writes a letter to the King of Poland,Turkey,Istanbul,41.0136,28.955,579.5143
 2551,CE 2003,Gawhar Shad Women's University is established in Kabul,Afghanistan,Kabul,34.5331,69.1661,1329.9237
 2552,4.16Bya,Formation of intrusive rocks in the Nuvvuagittuq Greenstone Belt,Canada,Inukjuak,68.3617,-133.731,-6297.5746
 2553,CE 2025,Evidence for Hadean mafic intrusions in the Nuvvuagittuq Greenstone Belt/Canada,WorldWide,WebSite,90,0,1443.5012
-2554,BCE 1200,Fu Hao achieves military success and is buried with great honors,China,Yindu 殷都区,36.11,114.303,-197.1376
-2555,CE 1976,Discovery of Fu Hao’s unstolen tomb,China,Yindu 殷都区,36.11,114.303,1224.3195
-2556,CE 111,Ban Zhao completes the Book of Han,China,Luoyang 洛陽,34.65,112.4333,22.6477
-2557,CE 240,Cai Yan is described in the Book of Later Han as erudite,China,Luoyang 洛陽,34.65,112.4333,51.7531
-2558,CE 655,Wu Zetian becomes empress and exercises de facto rule,China,Chang’an 長安,34.3083,108.8583,161.6199
-2559,CE 690,Wu Zetian establishes the Wu Zhou dynasty and proclaims herself emperor,China,Luoyang 洛陽,34.65,112.4333,172.2363
+2554,BCE 1200,Fu Hao achieves military success and is buried with great honors,China,Yindu,36.11,114.303,-197.1376
+2555,CE 1976,Discovery of Fu Hao’s unstolen tomb,China,Yindu,36.11,114.303,1224.3195
+2556,CE 111,Ban Zhao completes the Book of Han,China,Luoyang,34.65,112.4333,22.6477
+2557,CE 240,Cai Yan is described in the Book of Later Han as erudite,China,Luoyang,34.65,112.4333,51.7531
+2558,CE 655,Wu Zetian becomes empress and exercises de facto rule,China,Chang’an,34.3083,108.8583,161.6199
+2559,CE 690,Wu Zetian establishes the Wu Zhou dynasty and proclaims herself emperor,China,Luoyang,34.65,112.4333,172.2363
 2560,CE 60,Boudica rises against the Roman army,United Kingdom,Londre,51.5078,-0.1281,11.6582
 2561,CE 1429,Joan of Arc recaptures Orléans,France,Orléans,47.9025,1.909,494.3793
 2562,CE 1429,Joan of Arc wins the Battle of Jargeau,France,Jargeau,47.8668,2.1221,494.4402
@@ -2591,13 +2591,13 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 2590,CE 2023,Chandrayaan-3 Lands Near Lunar South Pole,Solar System,Moon,90,0,1433.0371
 2591,BCE 1300,Urnfield Proto‑Celtic Culture,Austria,(whole),47.7,13.9,-210.0984
 2592,BCE 1200,Hallstatt Early Celtic Culture,Austria,Hallstatt,47.6,13.6,-197.1376
-2593,BCE 600,Golasecca Ca' Morta Tomb Settlement,Italy,Como (Ca’ Morta),45.8,9.1,-110.0191
-2594,BCE 450,La Tène Core Artistic Boom,Switzerland,La Tène (Lake Neuchâtel),46.99,6.93,-85.2057
+2593,BCE 600,Golasecca Ca' Morta Tomb Settlement,Italy,Como (Ca’Morta),45.8,9.1,-110.0191
+2594,BCE 450,La Tène Core Artistic Boom,Switzerland,La Tène (Lake Neuchâtel),46.99,6.93,-85.2057
 2595,BCE 350,Expansion of La Tène Art to Britain,UK,London (Battersea),51.48,-0.17,-67.8392
 2596,BCE 200,Czech La Tène Trade Centre Discovery, Czech Republic,near Hradec Králové,50.2,15.8,-40.4134
 2597,BCE 100,Iron‑Age Britain Matrilocality Culture,UK,Dorset,50.7,-2.4,-21.1176
-2598,CE 1928,Golasecca Ca' Morta Tomb Settlement found,Italy,Como (Ca’ Morta),45.8,9.1,1083.2637
-2599,CE 1857,La Tène Core Artistic Boom,Switzerland,La Tène (Lake Neuchâtel),46.99,6.93,933.9808
+2598,CE 1928,Golasecca Ca' Morta Tomb Settlement found,Italy,Como (Ca’Morta),45.8,9.1,1083.2637
+2599,CE 1857,La Tène Core Artistic Boom,Switzerland,La Tène (Lake Neuchâtel),46.99,6.93,933.9808
 2600,CE 1857,Expansion of La Tène Art to Britain,UK,London (Battersea),51.48,-0.17,933.9808
 2601,CE 2025,Czech La Tène Trade Centre Discovery, Czech Republic,near Hradec Králové,50.2,15.8,1440.2294
 2602,CE 2025,Iron‑Age Britain Matrilocality Culture,UK,Dorset,50.7,-2.4,1440.2294
@@ -2611,12 +2611,12 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 2610,BCE 100,Noin-Ula Burial Site ,Mongolia,Batsumber sum,48.3862,106.755,-21.1176
 2611,CE 1913,Noin-Ula Burial Site found,Mongolia,Batsumber sum,48.3862,106.755,1047.1686
 2612,CE 1924,Noin-Ula Burial Site excavated by USSR,Mongolia,Batsumber sum,48.3862,106.755,1073.3412
-2613,CE 1960,Book: 『蒙古ノイン・ウラ発見の遺物』東洋文庫,Japan,Tokyo,35.7313,139.7486,1172.0432
+2613,CE 1960,Mongolian In-Ura Artifacts from the Discovery,Japan,Tokyo,35.7313,139.7486,1172.0432
 2614,BCE 200,Battle of Baideng,China,Datong,40.0667,113.2833,-40.4134
-2615,CE 1669,Shakushain’s revolt,Japan,Hokkaido 北海道,42.3413,142.3686,686.512
+2615,CE 1669,Shakushain’s revolt,Japan,Hokkaido,42.3413,142.3686,686.512
 2616,CE 1100,The Inuit settled in western Greenland,Denmark,Greenland,64.1667,-51.75,321.0487
 2617,CE 1000,The Inuit settled in Alaska,United States,Alaska,64,-150,279.6987
-2618,CE 789,Battle of Subushi,Japan,Oshu 奥州,39.1445,141.1391,203.6954
+2618,CE 789,Battle of Subushi,Japan,Oshu,39.1445,141.1391,203.6954
 2619,CE 1492,C.Colombus finds Sargasso Sea,North Atlantic Ocean,Sargasso Sea,28,-66,537.4085
 2620,CE 1492,C. Columbus navigates out of the treacherous Sargasso Sea,North Atlantic Ocean,Sargasso Sea,28,-67,537.4456
 2621,CE 2025,The Solar Dynamics Observatory (SDO) observes and captures a massive solar filament eruption,Solar System,Earth,0,0,1443.8078
@@ -2707,6 +2707,6 @@ id,annee,affair,location,precise,latitude,longitude,logarithm
 2707,CE 2025,TOKYO2025DEAFLYMPICS starts,Japan,Tokyo,35.6896,139.6921,1445.7305
 422,CE 1987,Amoco Cadiz runs aground,North Atlantic Ocean,Portsall Rocks,48.5411,-4.6561,1232.3573
 2708,CE 1993,Altamura Man is found,Italy,Altamura,40.8169,16.55,1291.1271
-2709,CE 132,Zhang Heng creates a seismoscope,China,Nanyang南阳,33.0047,112.5275,27.2551
-2710,CE 117,Zhang Heng creates an armillary sphere,China,Nanyang南阳,33.0047,112.5275,23.9593
-2711,CE 870,Sugawara no Michizane refers to Zhang Heng’s seismoscope,Japan,Kyoto京都,35.0117,135.7514,231.2319
+2709,CE 132,Zhang Heng creates a seismoscope,China,Nanyang,33.0047,112.5275,27.2551
+2710,CE 117,Zhang Heng creates an armillary sphere,China,Nanyang,33.0047,112.5275,23.9593
+2711,CE 870,Sugawara no Michizane refers to Zhang Heng's seismoscope,Japan,Kyoto,35.0117,135.7514,231.2319

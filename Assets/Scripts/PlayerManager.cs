@@ -7,7 +7,7 @@ public class PlayerManager : MonoBehaviour
 
     [Header("移動・回転設定")]
     public float moveSpeed = 10f;      // WASDでの水平移動速度
-    public float rotationSpeed = 0.1f;   // 回転速度
+    public float rotationSpeed = 30f;   // 回転速度
     private string currentScene;
 
 
@@ -30,7 +30,7 @@ public class PlayerManager : MonoBehaviour
 
     }
 
-    void Update()
+    void FixedUpdate()
     {
         // --- WASDで水平移動 ---
         if (Input.GetKey(KeyCode.W))
@@ -61,25 +61,30 @@ public class PlayerManager : MonoBehaviour
             rb.AddForce(-transform.up * moveSpeed);
         }
 
+    }
+
+    void Update()
+    {
+        float rot = rotationSpeed * Time.deltaTime;
         //上を向く
         if (Input.GetKey(KeyCode.U))
         {
-            transform.Rotate(-rotationSpeed, 0, 0);
+            transform.Rotate(-rot, 0, 0);
         }
         //下を向く
         if (Input.GetKey(KeyCode.J))
         {
-            transform.Rotate(rotationSpeed, 0, 0);
+            transform.Rotate(rot, 0, 0);
         }
         //右を向く
         if (Input.GetKey(KeyCode.K))
         {
-            transform.Rotate(0, rotationSpeed, 0);
+            transform.Rotate(0, rot, 0);
         }
         //左を向く
         if (Input.GetKey(KeyCode.H))
         {
-            transform.Rotate(0, -rotationSpeed, 0);
+            transform.Rotate(0, -rot, 0);
         }
 
         // 右に傾く
@@ -87,7 +92,7 @@ public class PlayerManager : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.I))
             {
-                transform.Rotate(0, 0, rotationSpeed);
+                transform.Rotate(0, 0, rot);
             }
         }
 
@@ -96,14 +101,9 @@ public class PlayerManager : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.Y))
             {
-                transform.Rotate(0, 0, -rotationSpeed);
+                transform.Rotate(0, 0, -rot);
             }
         }
-
-    }
-
-    void Update()
-    {
 
         // WASDのキーを離した際に慣性をリセットする例
         if (Input.GetKeyUp(KeyCode.W) ||

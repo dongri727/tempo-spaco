@@ -52,6 +52,7 @@
     <Compile Include="Assets/Scripts/AccdssWeb.cs" />
     <Compile Include="Assets/Starfield Skybox/Demo/Script/LookCamera.cs" />
     <Compile Include="Assets/Scripts/HintController.cs" />
+    <Compile Include="Assets/Scripts/CSVforMusee.cs" />
     <Compile Include="Assets/Scripts/NorthSouthImporter.cs" />
     <Compile Include="Assets/Scripts/PlayerManager.cs" />
     <Compile Include="Assets/Scripts/GoToGlobe.cs" />
