@@ -60,7 +60,6 @@
     <Compile Include="Assets/Scripts/GeoConverter.cs" />
     <Compile Include="Assets/Planet Earth Free/SpinFree.cs" />
     <Compile Include="Assets/Scripts/EastWestImporter.cs" />
-    <Compile Include="Assets/Scripts/NewScriptableObjectScript.cs" />
     <Compile Include="Assets/Scripts/CSVImporter.cs" />
     <Compile Include="Assets/Scripts/TileMeta.cs" />
     <Compile Include="Assets/Scripts/EnFace.cs" />
@@ -74,6 +73,7 @@
     <Compile Include="Assets/Scripts/Line200Manager.cs" />
     <Compile Include="Assets/Scripts/Emergency.cs" />
     <Compile Include="Assets/Scripts/CSVImporterWithRotation.cs" />
+    <Compile Include="Assets/Scripts/RoomNoHoverPop.cs" />
     <Compile Include="Assets/Scripts/ColumnImporter.cs" />
     <Compile Include="Assets/Scripts/BackButton.cs" />
   </ItemGroup>
