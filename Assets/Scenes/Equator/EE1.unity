@@ -959,6 +959,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: WhereCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1992835297280595482, guid: 326b81ff6e5144287b7e9108b067abfb, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eae227ebdc14a44899ca931a788fbef4, type: 3}
+    - target: {fileID: 2275911165861072827, guid: 326b81ff6e5144287b7e9108b067abfb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 2275911165861072827, guid: 326b81ff6e5144287b7e9108b067abfb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -130
+      objectReference: {fileID: 0}
     - target: {fileID: 7431547583921867857, guid: 326b81ff6e5144287b7e9108b067abfb, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -2091,6 +2103,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: player
       objectReference: {fileID: 0}
+    - target: {fileID: 1034779190776887625, guid: 20469706b4c9148e7a60afd5ddfa50b1, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5087244532376194621, guid: 20469706b4c9148e7a60afd5ddfa50b1, type: 3}
+      propertyPath: rotationSpeed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7436213699335623080, guid: 20469706b4c9148e7a60afd5ddfa50b1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -2541,8 +2561,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6909642695654100108, guid: bc25031c189f742639bb0e251c5f1710, type: 3}
+      propertyPath: moveDistance
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6909642695654100108, guid: bc25031c189f742639bb0e251c5f1710, type: 3}
       propertyPath: gateDirection
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6909642695654100108, guid: bc25031c189f742639bb0e251c5f1710, type: 3}
+      propertyPath: destinationSceneName
+      value: EE2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
