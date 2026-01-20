@@ -20,9 +20,12 @@ public class SceneGate : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log("Trigger touched by: " + other.name);
+
         if (!other.CompareTag("Player")) return;
 
-        Debug.Log($"Player entered gate to {destinationSceneName} via {gateDirection}");
+        Debug.Log("PLAYER ENTERED GATE");
+        SceneManager.LoadScene(destinationSceneName);
 
         Vector3 offset = GetOffsetByDirection(gateDirection);
 

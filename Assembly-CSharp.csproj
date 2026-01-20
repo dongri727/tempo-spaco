@@ -57,6 +57,7 @@
     <Compile Include="Assets/Scripts/CSVTrapezoid.cs" />
     <Compile Include="Assets/Scripts/PlayerManager.cs" />
     <Compile Include="Assets/Scripts/GoToGlobe.cs" />
+    <Compile Include="Assets/Scripts/NaviButton.cs" />
     <Compile Include="Assets/Scripts/GlobeSelectedManager.cs" />
     <Compile Include="Assets/Scripts/GeoConverter.cs" />
     <Compile Include="Assets/Planet Earth Free/SpinFree.cs" />

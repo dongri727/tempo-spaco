@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GoToGlobe : MonoBehaviour
+public class NaviButton : MonoBehaviour
 {
+     public string destinationSceneName;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +21,6 @@ public class GoToGlobe : MonoBehaviour
 
     public void SwitchScene() 
     {
-        SceneManager.LoadScene("EE1", LoadSceneMode.Single);
+        SceneManager.LoadScene(destinationSceneName);
     }
 }
